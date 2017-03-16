@@ -1,0 +1,26 @@
+{% for gruppe in site.grupper %}
+  {% comment %}
+    This is just terrible, liquid doesn't do boolean algebra very well.
+    Alternative is just include.placement == gruppe.placement, but this makes for a
+    nice default when users forget to specify placement.
+  {% endcomment %} 
+  {% if include.placement == "top" and gruppe.placement == "top" %}
+    {% assign show = true %}
+  {% elsif include.placement != "top" and gruppe.placement != "top" %}
+    {% assign show = true %}
+  {% else %}
+    {% assign show = false %}
+  {% endif %}
+
+  {% if show %}
+    {% if gruppe.link %}
+      <a href="{{ gruppe.link }}">
+    {% endif %}
+    <img src="{{ gruppe.img }}">
+    <h2>{{ gruppe.title }}</h2>
+    {% if gruppe.link %}
+      </a>
+    {% endif %}
+    {{ gruppe.description }}
+  {% endif %}
+{% endfor %}
