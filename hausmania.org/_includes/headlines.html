@@ -1,3 +1,4 @@
-{% for post in site.posts %}
+{% comment %} possible improvement: remove posts if too old {% endcomment %}
+{% for post in site.posts limit: 5 %}
   <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 {% endfor %}

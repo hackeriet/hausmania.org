@@ -1,0 +1,19 @@
+{% comment %}Couldn't figure out how to get an empty array.{% endcomment %}
+{% assign events = "" | split:"," %} 
+
+{% assign server_date = site.time | date: "%Y-%m-%d"  %}
+{% for event in site.data.facebook.data %}
+  {% comment %}Remove passed events by day. Lexicographically..{% endcomment %}
+  {% assign end_time = event.end_time | date: "%Y-%m-%d"  %}
+  {% if end_time < server_date %}
+    {% assign events = events | push: event %}
+  {% endif %}
+{% endfor %}
+
+{% if events.size > 0 %}
+  <h1>Kommende</h1>
+  {% for event in events limit: 7 %}
+    <h3>{{ event.name }}</h3>
+    {{ event.start_time | date: "%d/%m/%Y" }} - {{ event.end_time }}
+  {% endfor %}
+{% endif %}
