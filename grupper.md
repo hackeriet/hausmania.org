@@ -1,6 +1,6 @@
 ---
 title: Grupper
-permalink: /grupper/
+permalink: "/grupper/"
 layout: grupper
 ---
 
