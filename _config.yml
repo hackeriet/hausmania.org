@@ -24,8 +24,8 @@ description: 'Write an aweausmsome description for your new site here. You can e
   search results) and in your feed.xml site description.
 
 '
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 markdown: kramdown
 gems:
 - jekyll-feed
