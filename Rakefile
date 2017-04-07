@@ -1,7 +1,11 @@
-require 'html-proofer'
 
 task :test do
+  require 'html-proofer'
   sh "bundle exec jekyll build"
   options = { :assume_extension => true }
   HTMLProofer.check_directory("./_site", options).run
+end
+
+task :deploy do
+  sh "ssh haus@rediger.hausmania.org 'cd /srv/hausmania.org ; git pull'"
 end
