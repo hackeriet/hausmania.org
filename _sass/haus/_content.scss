@@ -11,6 +11,7 @@
   background-image: url(/assets/img/hausmania.jpg);
   background-size: cover;
   position: relative;
+  height: 100vh;
 
   .video-container {
     position: absolute;
@@ -18,11 +19,12 @@
     left: 0;
     height: 100%;
     width: 100%;
+    overflow: hidden;
   }
 
   video {
-    width: auto;
-    height: 100%;
+    width: 100%;
+    // height: 100%;
     display: block;
     position: absolute;
     top: 50%;
