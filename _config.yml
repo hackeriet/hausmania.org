@@ -27,6 +27,7 @@ description: 'Write an aweausmsome description for your new site here. You can e
 baseurl: 
 url: 
 markdown: kramdown
+google_maps_api: AIzaSyDLQwMmKW5AXK-g556_NUkPpHVJUlIUhDY
 gems:
 - jekyll-feed
 exclude:

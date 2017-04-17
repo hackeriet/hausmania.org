@@ -7,5 +7,5 @@ task :test do
 end
 
 task :deploy do
-  sh "ssh haus@rediger.hausmania.org 'cd /srv/hausmania.org ; git pull'"
+  sh "ssh haus@rediger.hausmania.org git --git-dir=/srv/hausmania.org/.git pull"
 end
