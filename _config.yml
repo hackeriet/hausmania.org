@@ -19,15 +19,14 @@ defaults:
     img: placeholder.jpg
     placement: bottom
 email: administrasjon@hausmania.org
-description: 'Write an aweausmsome description for your new site here. You can edit
-  this line in _config.yml. It will appear in your document head meta (for Google
-  search results) and in your feed.xml site description.
-
-'
+description: >
+Please remember to change this FIXME
 baseurl: 
 url: 
 markdown: kramdown
-google_maps_api: AIzaSyDLQwMmKW5AXK-g556_NUkPpHVJUlIUhDY
+sass:
+  style: compressed
+  sass_dir: _sass
 gems:
 - jekyll-feed
 exclude:
