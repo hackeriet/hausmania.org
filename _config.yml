@@ -20,7 +20,8 @@ defaults:
     placement: bottom
 email: administrasjon@hausmania.org
 description: >
-Please remember to change this FIXME
+  Please remember to change this FIXME
+  bleh
 baseurl: 
 url: 
 markdown: kramdown
