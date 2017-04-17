@@ -1,0 +1,27 @@
+#nav {
+  background-color: transparent;
+}
+
+#nav a {
+  color: $white;
+  font-weight: bold;
+}
+
+.navbar-brand img {
+  width: 2.5rem;
+}
+
+.navbar-nav {
+  text-align: right;
+}
+
+.nav-item {
+  border: 3px solid $white;
+  font-weigth: bold;
+  padding: .25rem;
+  // border-radius: 3px;
+
+  &:not(:first-child) {
+    margin-left: .5rem;
+  }
+}

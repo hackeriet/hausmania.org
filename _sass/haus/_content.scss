@@ -1,0 +1,83 @@
+#wrapper {
+  min-height: 100vh;
+}
+
+#wrapper > section {
+  min-height: 100vh;
+  padding: 4rem 2rem;
+}
+
+#top {
+  background-image: url(/assets/img/hausmania.jpg);
+  background-size: cover;
+  position: relative;
+
+  .video-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+
+  video {
+    width: auto;
+    height: 100%;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+#about {
+  background-color: $primary;
+
+  h2 {
+    font-size: 4rem;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+#news {
+  background-color: $secondary;
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  ul > li {
+    padding: 0 .5rem;
+
+    h3 {
+      margin: 0;
+      border-top: 1px solid $black;
+      color: $black;
+      font-size: 1rem;
+    }
+
+    p {
+      color: $white;
+      font-size: 1rem;
+    }
+  }
+}
+
+#contact {
+  background-color: $tertiary;
+}
+
+#map {
+  height: 4rem;
+  // position: relative;
+
+  > * {
+    position: absolute;
+    left: 0;
+    width: 100%;
+  }
+}

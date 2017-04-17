@@ -1,0 +1,12 @@
+$white: #FFFFFF;
+$black: #000000;
+$yellow: #F0D132;
+$blue: #6A90F9;
+$purple: #C860F9;
+
+$primary: $yellow;
+$secondary: $blue;
+$tertiary: $purple;
+
+@import "haus/nav";
+@import "haus/content";
