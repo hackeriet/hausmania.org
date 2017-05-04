@@ -11,11 +11,16 @@
 {% endfor %}
 
 {% if events.size > 0 %}
-  <h1>Kommende</h1>
-  {% for event in events limit: 7 %}
+<ul class="row">
+  {% for event in events reversed %}
+            <li class="col col-md-6">
     <a href="https://www.facebook.com/events/{{event.id}}">
-      <h3>{{ event.name }}</h3>
+        <h3>
+            {{ event.start_time | date: "%d/%m %H:%M" }} — {{ event.end_time | date: "%H:%M" }}
+        </h3>
+                <p>{{ event.name }}</p>
     </a>
-    {{ event.start_time | date: "%d/%m/%Y" }} - {{ event.end_time }}
-  {% endfor %}
+            </li>
+    {% endfor %}
+</ul>
 {% endif %}
