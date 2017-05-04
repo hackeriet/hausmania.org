@@ -1,104 +1,458 @@
 {
-   "paging" : {
-      "cursors" : {
-         "before" : "MTIzNTM2NDY3OTg1Mzg5NgZDZD",
-         "after" : "NjA4Mzg4NDkyNjYzNzQw"
-      }
-   },
    "data" : [
       {
-         "id" : "1235364679853896",
+         "end_time" : "2017-07-15T16:00:00+0200",
          "place" : {
-            "location" : {
-               "street" : "Josefines gate 34",
-               "longitude" : 10.72367,
-               "zip" : "0351",
-               "latitude" : 59.9218,
-               "city" : "Oslo",
-               "country" : "Norway"
-            },
-            "name" : "Arkitektenes Hus",
-            "id" : "181792988527779"
+            "name" : "Prindsen Hage, Storgata 36, 0182 Oslo"
          },
-         "start_time" : "2016-10-19T18:00:00+0200",
-         "description" : "Kan en reguleringsplan være et verktøy for en mere demokratisk og deltagende byutvikling? Og kan Hauskvartalet fortsatt bli et byøkologisk kulturkvartal i henhold til intensjonen i reguleringsplanen og et enstemmig bystyrevedtak? \n\nHauskvartalet har gjennom reguleringen til byøkologisk kulturkvartal det beste utgangspunktet for å prøve ut, i norsk sammenheng ny metodikk, i område- og byutvikling. Internasjonalt ser vi hvordan medvirkende og samskapende byutvikling gir gode resultater og kvaliteter. I Norge er dette begrenset til en sterk faglig interesse, men med liten erfaring med praktisk gjennomføring. Det har derfor vært knyttet store forventninger til Hauskvartalet som pilotprosjekt for denne type utvikling.\n\nEtter at store deler av Hauskvartalet ble solgt til den private eiendomsutvikleren Urbanium, framstår situasjonen som fastlåst for alle parter.   \n\nHausmania inviterer derfor til et miniseminar for å se om det fortsatt er mulig å realisere intensjon og ambisjon i reguleringsplanen på en måte som gir nye og positive erfaringer for norsk byutvikling, og der alle parter opplever sine interesser ivaretatt på best mulig måte i prosess og resultat.\n\nPROGRAM\n18.00 Velkommen\n\nDel en \"Den medvirkende byen\"\n18.10 Lokal Agenda 21 med Camilla Sørensen Eidsvold, Fredrikstad Kommune\n18.30 Medvirkning og muligheter med Gro Sandkjær Hanssen, NIBR\n\n18.50 Intermezzo\nEn liten film av Massiv - Small\n\nDel 2 \"Hauskvartalet\"\n19.00 Visjon for Hauskvartalet ved Urbanium \n19.10 Suksess med medvirkning ved Frederica Miller, Gaiaarkitektene\n19.30 Muligheter og begrensninger i Hauskvartalet ved Arild Eriksen, Eriksen Skajaa Arkitekter\n19.50 Vinn – Vinn – Vinn i Hauskvartalet ved Ole Pedersen, Hausmania\n20.05 Dialog om muligheter i Hauskvartalet ved Frederica Miller, Arild Eriksen, Urbanium og Harald Nissen (Miljøpartiet de Grønne).\n\n20.40 Takk for i dag",
-         "name" : "Fortsatt muligheter i Hauskvartalet?",
-         "end_time" : "2016-10-19T20:40:00+0200"
+         "name" : "The Most Wuthering Heights Day Ever 2017 - OSLO",
+         "description" : "Etter den store suksessen arrangeres The Most Wuthering Heights Day Ever for andre gang på rad verden rundt.\n\nAlt startet med Brightons Shambush event hvor 300 Kate bush-kopier danset sammen til Wuthering Heights utendørs i 2013. \nhttps://www.youtube.com/watch?v=s8jQl_zOKm4\n\nDansekollektivet inviterer alle som befinner seg i Oslo til Prindsen Hage 15.juli til å bli med å danse i sommervarmen midt i Oslo sentrum i en grønn og frodig park. \nI år skal vi sette verdensrekord i Kate Bush-oppmøte!\n\nArrangementet skjer verden rundt blant annet i\nBerlin, København, Rotterdam, Adelaide, Brisbane, Gold Coast, Melbourne, Hobart, Newcastle, Perth, Blue Mountains og Atlanta. \nBli med og sett Oslo på Kate Bush-kartet!\n\nDress code:\nRød kjole, rød strømpebukse og svart belte. (google it!)\n\nInviter alle du kjenner!\n\n\nENGLISH:\nFor the second year in a row we will dance out our hot, greedy tempers and chase away our bad dreams. See below for some of the international events.\n\nInspired by the 300 Kate Bushes at Brighton's Shambush event 2013, we hope to gather the most Kates ever and re-create the Wuthering Heights experience in Oslo also this year.\n\nInvite all of your friends.\n\nWear: red dress, red stockings, black belt.\n\nBerlin: facebook.com/groups/1141431139214038/\nRotterdam: facebook.com/events/1197494760295148/\nAtlanta: facebook.com/events/740782719433057/\nAdelaide: facebook.com/events/545988118934742/\nBrisbane: facebook.com/events/1749509712033461/\nGold Coast: facebook.com/events/1797468643856717/\nHobart: facebook.com/events/326448004420834/\nMelbourne: facebook.com/events/273644509665516/\nNewcastle: facebook.com/events/1343773145689350/\nPerth: facebook.com/events/100283963812707/",
+         "start_time" : "2017-07-15T14:00:00+0200",
+         "id" : "1198514860267750"
       },
       {
-         "end_time" : "2016-09-23T23:00:00+0200",
-         "name" : "Elvelangs",
-         "start_time" : "2016-09-22T20:00:00+0200",
-         "place" : {
-            "name" : "Hausmania Kulturhus",
-            "location" : {
-               "street" : "Hausmannsgate 34",
-               "longitude" : 10.75198,
-               "zip" : "0182",
-               "latitude" : 59.91915,
-               "city" : "Oslo",
-               "country" : "Norway"
-            },
-            "id" : "230514097330176"
-         },
-         "id" : "1095233697225957"
-      },
-      {
-         "start_time" : "2016-06-02T18:00:00+0200",
-         "place" : {
-            "name" : "PODIUM",
-            "location" : {
-               "street" : "Hausmannsgate 34",
-               "longitude" : 10.75198,
-               "zip" : "0182",
-               "latitude" : 59.91915,
-               "city" : "Oslo",
-               "country" : "Norway"
-            },
-            "id" : "264986345239"
-         },
-         "id" : "1719850251590270",
-         "end_time" : "2016-06-02T21:00:00+0200",
-         "name" : "Hausmaniafestivalen - Hva nå Hauskvartalet?",
-         "description" : "Åpning av utstillingen \"Hjem kjære Hjem\". En dokumentarisk utstilling som viser film og foto fra Brakkebygrenda, Lysopp Husmannsplass, Enebakkveien 37, Vestbredden, Hausmannsplatz og Hauskvartalet.\n\nPerformance med Crotonic X\nSamtale med Frederica Miller\nPresentasjon av fotografene og de ulike prosjektene\nKonsert med Mr. Orkester\n\nForfriskende servering.\n\n11 mai vedtok bystyret å selge Hauskvartalet, utenom Hausmania, til den kommersielle utvikleren Urbanium.\n\nByråd Hanna Marcussen har sagt at et byøkologisk kvartal i Hausmannsgate er viktig for Oslo, og at salget betyr at arbeidet med realiseringen av kulturkvartalet endelig kan komme i gang. Hun, og hennes partifeller Harald Nissen og Shoaib Sultan, forsikrer om at kommunen vil bidra for å sikre at intensjonen med reguleringen oppfylles.  \n\nTil tross for dette har et samlet Hauskvartal sagt nei til salget og mener at salget i seg selv er ødeleggende for en realisering av den enstemmig vedtatte reguleringen. \n\nHva er egentlig denne reguleringen for Hauskvartalet som alle snakker om? Hvordan samsvarer prosjektbeskrivelsen fra Urbanium med reguleringen? Hva er det man sikter til når man snakker om reguleringens intensjon? Og er det mulig å se for seg at reguleringens intensjon kan ivaretas etter salget til Urbanium? Hvordan eller hvorfor ikke?\n\nDisse spørsmålene skal vi prøve å finne svar på i samtale med Gaia-arkitekt  Frederica Miller. Miller var kommunens prosjektleder for reguleringsprossessen."
-      },
-      {
-         "name" : "Hausmaniafestivalen - Utstilling - Hjem Kjære Hjem",
-         "end_time" : "2016-06-04T19:00:00+0200",
-         "description" : "Festivalutstillingen er tradisjonelt en anledning der vi viser fram ulike visuelle uttrykk som er skapt på Hausmania gjennom året.\n\nPå grunn av bystyrets vedtak om salg av hele Hauskvartalet, utenom Hausmania, blir årets utstilling litt annerledes.\n\nI stedet for den tradisjonelle kunstutstillingen presenterer vi i år en film og fotodokumentarisk utstilling fra ulike byøkologiske boliger, prosjekter og initiativ som har slektskap til Hauskvartalet.\n\nDet vil bli vist film og  foto fra Brakkebygrenda, Lysopp Husmannsplass, Enebakkveien 37, Vestbredden, Hausmannsplatz og Hauskvartalet.\n\nUtstillere:\nAnita Hillestad\nMads Faste Liang Nilsen\nJavier Auris\nØyvind Aukrust\nVilde Thomsvik\n\nUtstillingsåpning torsdag klokken 18.00.\nPerformance med Crotonic X\nPresentasjon av fotografene og de ulike prosjektene\nSamtale med Ole Pedersen og Frederica Miller\nKonsert med Mr. Orkester\n\nhttps://www.facebook.com/events/1719850251590270/\n\nÅpent fredag og lørdag 13.00 - 19.00\n\nVIsning av Anita Hillestad sin film \"Brakkebygrenda\" begge dagene klokken 18.00.",
+         "start_time" : "2017-06-14T20:00:00+0200",
+         "id" : "297190407382745",
          "place" : {
             "location" : {
-               "zip" : "0182",
-               "city" : "Oslo",
-               "latitude" : 59.91915,
+               "street" : "Youngs gate 6",
                "country" : "Norway",
-               "street" : "Hausmannsgate 34",
-               "longitude" : 10.75198
+               "zip" : "0181",
+               "city" : "Oslo",
+               "longitude" : 10.750492215157,
+               "latitude" : 59.914794733399
             },
-            "name" : "PODIUM",
-            "id" : "264986345239"
+            "id" : "101991986639072",
+            "name" : "Kulturhuset"
          },
-         "start_time" : "2016-06-02T18:00:00+0200",
-         "id" : "1708114316096341"
+         "end_time" : "2017-06-14T22:00:00+0200",
+         "name" : "L a s t h o r n e x a m e v e r",
+         "description" : "Folkens, jeg tror det faktisk kommer til å skje. Jeg skal ha min avsluttende master eksamen 14.juni og den skal være på Kulturhuset kl.20\n\nGjennom hele masteren jobbet jeg med å utvide min kompentanse som musiker med klassisk bakgrunn ved å utforske improvisasjon, komposisjon og elektronikk.\n\nFørst skal jeg og Ingrid framføre Parallelle Avstander som vi komponerte sammen. Etter det skal jeg og Bendik skape kule rytmer og melodier helt fra scratch. \n\nIeva Praneviciute, horn, elektronikk\nIngrid Wesenberg Eskeland, kontrabass\nBendik Baksaas, alt mulig kult\n\nKom og heie på meg fordi jeg kommer til å være dødsnervøs:) \n\nSees! <3"
       },
       {
-         "start_time" : "2016-06-02T18:00:00+0200",
+         "start_time" : "2017-06-14T19:00:00+0200",
+         "id" : "283113252140971",
+         "end_time" : "2017-06-14T21:00:00+0200",
          "place" : {
-            "name" : "Hausmania Kulturhus",
             "location" : {
-               "longitude" : 10.75198,
-               "street" : "Hausmannsgate 34",
+               "longitude" : 10.750492215157,
                "city" : "Oslo",
-               "latitude" : 59.91915,
+               "latitude" : 59.914794733399,
                "country" : "Norway",
-               "zip" : "0182"
+               "zip" : "0181",
+               "street" : "Youngs gate 6"
             },
-            "id" : "230514097330176"
+            "id" : "101991986639072",
+            "name" : "Kulturhuset"
          },
-         "id" : "608388492663740",
-         "name" : "Hausmaniafestivalen",
-         "description" : "Den årlige vårfestivalen på Hausmania.\n\nHauskvartalet er under angrep. Mesteparten av kvartalet er vedtatt solgt til den kommersielle utvikleren Urbanium. Og byrådet har hastet gjennom en ordre til Politiet om å kaste ut Hausmannsplatz, den nye vognplassen på Brenneriveien 1. \n\nKulturhuset Hausmania inviterer likevel, eller nettopp derfor, til festival igjen.\n\nDet blir musikk, performance, dans, klubb, debatt, utstilling, mat, drikke, de beste folka og alt som hører med.\n\nTorsdag 18.00: Utstillingsåpning på Podium.\nhttps://www.facebook.com/events/1719850251590270/\n\nUstillingen:\nhttps://www.facebook.com/events/1708114316096341/\n\nFredag 18.00:\nKonserter i bakgården:\n\nKl. 19:00 Meon a Mission\nKl. 20:00 Actionfredag\nKl. 21:00 Krümpznylt\nKl. 22:00 Street Fajita\n\nLørdag 14.00:\nKonserter i bakgården\n\nBARNEPROGRAM KL 14 - 17\n14.00  DØMT (Barnepønk)\n14.30 5 RYTMER DANS FOR BARN\n15.30 UFOKUNST & ANSIKTSMALING\n16.30 ÅPENT LEKELAND\n\nKl. 14:00 DØMT, barnepønk\nKl. 15:00 SKADA\nKl. 16:00 Oslo Hardkor\nKl. 17:00 Wild Man\nKl. 18:00 Gunnar Gram Franck\nKl. 18:50 Madie & Bing\nKl. 19:15 Eyvind Lund\nKl. 20:00 Alle Gode Ting\nKl. 21:00 Mirramaze\nKl. 22:00 Dromedar\nKl. 23:00 Bernard Briis Band\nIkke tidsatt Ingrid Bomann-Larsen, akustisk\n\nLørdag 19.00\nCrotonicX with friends sudden performance\n\n- Elise Austad : \" OCD \"\n\"Verket handler om Tvangstanker og er en intuitiv og kompulsiv\nutforskning av ting som oppleves nødvendig å gjøre, og hva man har lyst til å uttrykke. \nByrommet er i stor grad utforma utenfor vår makt, og her går vi hver dag og drømmer.\"\n\n- Chollada Phinitduang/Karoline Ruderaas Albrigtsen : \" Flood FuzZ \"\n\"Hva tenker du når du hører ordet mensen? Syklusen er en naturlig del av det å være kvinne.\nGjennom performance kommenterer utøverne den ladede diskusjonen rundt mensen og det som følger med.\"\n\n- CrotonicX : \" SCHA: DeathDoDance II \"\n“Call it Human Right, Resistance, Revolt or Riot. Revolution is the spirit of breath, body and brain in total motion. And Revolution will happen when dance becomes personal, the personal becomes political, political becomes a path, and the path is a dance.”\n\n\nLørdag 23.00 \nOslo Dub Club\n\nRoastfish & Cornbread sound system er mer eller mindre født og oppvokst på huset og står bak utallige arrangementer i kvartalet under fana Oslo Dub Club og etterfesten på musikkens dag har vært tradisjon \nsiden 2009. \n\nEtter noen få års opphold smeller det til igjen ikveld, med hjemmemekka høyttalere, niceness og alt som hører med. \n\nhttps://www.facebook.com/events/1141825302535176/\n\n\nDersom ikke plutselig politiet kommer for å kaste ut initiativet på Hausmannsplatz. Da risikerer vi at de legger lokk på hele kvartalet. Og det kan bli vanskelig å gjennomføre festivalen på den måten som er planlagt \n\nMen folkens, hold av helga, festival blir det uansett. Dersom det er utkastelse på gang, er det ekstra viktig at folk kommer og viser støtte.",
-         "end_time" : "2016-06-05T03:00:00+0200"
+         "name" : "Movie Night with TCF Norway: These Birds Walk",
+         "description" : "TCF Norway proudly presents an exclusive screening of 'These Birds Walk', a multiple award winning documentary on the struggles of street children in Pakistan. \n\nA special 30 minutes Q&A with the director Bassam Tariq. \n\nStoryline: A poor runaway boy and a reluctant ambulance driver in Karachi. Their two lives come together through a dying humanitarian upon whom so much of their daily lives depend.\nMore about the film here: http://www.imdb.com/title/tt2130282/\n\nTicket is 200 kr with all proceeds going to TCF Norway. \nTo reserve your spot please Vipps 200 kr to TCF Norway."
+      },
+      {
+         "start_time" : "2017-05-30T18:00:00+0200",
+         "id" : "267442227050116",
+         "place" : {
+            "id" : "101991986639072",
+            "location" : {
+               "street" : "Youngs gate 6",
+               "country" : "Norway",
+               "zip" : "0181",
+               "latitude" : 59.914794733399,
+               "longitude" : 10.750492215157,
+               "city" : "Oslo"
+            },
+            "name" : "Kulturhuset"
+         },
+         "end_time" : "2017-05-30T20:00:00+0200",
+         "name" : "PANG PANG PANG - Jazz og poesi med duoen Gomringer&Scholz",
+         "description" : "Philipp Scholz lytter. Nora Gomringer puster inn, Scholz svinger armen bakover, Gomringer begynner, Scholz slår på trommene, Gomringer snakker og så sier det PANG, PANG, PANG! Gammel magi oppstår i ny innpakning: jazz og resitasjon av poesi. \n\nMiksturen: ord og takt, like mye humor som alvor, en mikrofon, et slagverk og to begavede kunstnere. Nora Gomringer resiterer fra egne tekster og utdrag fra hele verdenslitteraturen – fra Dorothy Parker til eksperimentell litteratur fra det 20. århundre og store klassikere.\n\nJazztrommeslageren Philipp Scholz angir takten, akkompagnerer Gomringers ville ordritt, dirigerer, forstyrrer og framhever oppleseren. Sammen sørger de for et fatallyrisk smell av høy kvalitet på scenen.\n\nPHILIPP SCHOLZ bor i Leipzig. Han studerer ved Musikkhøyskolen hvor han blander sammen ulike stiler fra musikkens verden. Til sine revolusjonære musikalske gjerninger valgte han trommesettet – hva annet kunne det ha vært? Eller var det instrumentet som fant ham? De ulike bandene og prosjektene som Philipp Scholz angir beaten i, har bl.a. gitt ham Junger Münchner Jazzpreis i 2014.\n\nNORA GOMRINGER er lyriker og oppleser og har mottatt mange priser for begge kunstuttrykkene. De to kunstnerne møttes helt tilfeldig på Bokmessen i Leipzig. Siden har de med «Wort Drum Dran» satt musikk til alt som ikke er fastspikret i litteraturhistorien. De ulike programmene gir fatallyriske øyeblikk, for det er underholdende og irriterende, får deg til å humre og tenke, og det sier: Pang!"
+      },
+      {
+         "start_time" : "2017-05-29T19:00:00+0200",
+         "id" : "796062263903644",
+         "end_time" : "2017-05-29T22:00:00+0200",
+         "place" : {
+            "id" : "101991986639072",
+            "location" : {
+               "city" : "Oslo",
+               "longitude" : 10.750492215157,
+               "latitude" : 59.914794733399,
+               "zip" : "0181",
+               "country" : "Norway",
+               "street" : "Youngs gate 6"
+            },
+            "name" : "Kulturhuset"
+         },
+         "name" : "Lysne/Eilertsen /// Kulturhuset",
+         "description" : "Mandag 29. mai kommmer Lysne/Eilertsen til Kulturhuset for å spille i \"Boksen\". Duoen spiller egenkomponert materiale inspirert av blandt annet folk, jazz og klassisk musikk. De jobber også en del med lyd-verdener som springer ut fra diverse måter å preparere instrumentene på, noe som både kan danne grunnlag for låter og fritt improviserte strekk. \n\nJo David Meyer Lysne - akustisk gitar, preparert akustisk gitar\nMats Eilertsen - bass\n\n////////////////\n\nBoksen, Kulturhuset\nKonsertstart: Kl 19:00\nCC: GRATIS!\n\nKonserten er arrangert av Kulturhuset og Norges Musikkhøgskole"
+      },
+      {
+         "name" : "The Why Not? Festival - #4",
+         "end_time" : "2017-05-20T18:00:00+0200",
+         "place" : {
+            "location" : {
+               "street" : "Youngs gate 6",
+               "zip" : "0181",
+               "country" : "Norway",
+               "longitude" : 10.750492215157,
+               "city" : "Oslo",
+               "latitude" : 59.914794733399
+            },
+            "id" : "101991986639072",
+            "name" : "Kulturhuset"
+         },
+         "description" : "Are you tired of being strange?\n \nHave people rolled their eyes when you try to explain your fascination with japanese animation? Do your parents love you, but not quite understand why you insist on playing with Legos well into your 30s? Are you a well providing citizen that also just likes to binge watch Llama videos on Youtube? When your friends nag you about your love of 1920s vintage porcelain tableware and, in all honesty, ask you “Why are doing this?” stop explaining.\n \nStart answering with “Well, why not?”\n \nBlank Space presents the Why Not? Festival. In this one day event, we invite the strange, weird, and curious to explore creativity with confidence and wonder.\n \nTake part in a series of workshops designed to give you an exponential boost in experimentation. Buy some stuff from local, independant weirdos who make stuff just because they can. Come listen to music produced by people who create tunes just to hear what sounds can be like when heard together. Have a beer with passionate Oslo brewers who care about booze.\n \nNo matter the direction, everyone is welcome to participate in this completely open event. Want to teach a class about robots? Want to take a class about knitting? Want to play some music (even though you’ve never performed outside of your living room)? Want to talk about applied astrobiology?\n \nThen come be a part of Oslo’s first outsiders festival - a place that doesn’t ask why, but instead…\n \nWhy not?\n​​\n------------\n​\nMay 20th, 2017\n11:00 - 14:00 - Children's Program\n14:00 - 18:00 - Adult Program\nNEW Kulturhuset\nYoungstorget, 0181 Oslo \n​ \nFREE TO ATTEND\n \nContact Blank Space for all enquiries.\n\nIdentity design by Tom Lenartowicz / Thrilly",
+         "start_time" : "2017-05-20T11:00:00+0200",
+         "id" : "1909599975953491"
+      },
+      {
+         "place" : {
+            "name" : "Kulturhuset",
+            "location" : {
+               "country" : "Norway",
+               "zip" : "0181",
+               "street" : "Youngs gate 6",
+               "longitude" : 10.750492215157,
+               "city" : "Oslo",
+               "latitude" : 59.914794733399
+            },
+            "id" : "101991986639072"
+         },
+         "end_time" : "2017-05-15T20:30:00+0200",
+         "name" : "Det vi skrev som barn",
+         "description" : "Hvordan vi tenkte og skrev som barn kan forklare mye av hvem vi ble som voksne. I brev til venner, dagbøker, lapper til familien og andre skriblerier finnes gullkorn fra barnemunn, som en gang føltes viktig å få ned på papiret. Til ære for de fine, vanskelige og utrolig pinlige øyeblikkene fra oppveksten inviterer BokTorsdag forfattere til scenen!\n\nInspirert av den kanadiske podcasten «Grownups read things they wrote as kids» vil de dele rare små tekster, fra de var rare og små selv.\n\nKveldens forfattere:\nTom Egeland, Hanne Sigbjørnsen (også kjent som TegneHanne), Jonny Halberg, Vetle Lid Larsen, Selma Lønning Aarø, Tobias Nordbø og Dan Aleksander Andersen\n\nFlere forfattere vil bli annonsert fortløpende!\n\nCC: 50kr\n\nKvelden holdes av Vilde Reichelt, Maren Simonsen og Vilde Alette Monrad-Krohn \n\nIllustrasjon: Samra Avdagic",
+         "start_time" : "2017-05-15T19:00:00+0200",
+         "id" : "214837715675178"
+      },
+      {
+         "description" : "Bli med på Oslos ledende instrumentale verdensmusikkdanseorkesters sommeravslutning på Kulturhuset! Vi satser på årets første tropenatt.\n\nPS.\nVi er tilbake etter sommeren altså.",
+         "name" : "Bongotorsdag #8 med Bosses Bongoband",
+         "place" : {
+            "location" : {
+               "street" : "Youngs gate 6",
+               "zip" : "0181",
+               "country" : "Norway",
+               "city" : "Oslo",
+               "longitude" : 10.750492215157,
+               "latitude" : 59.914794733399
+            },
+            "id" : "101991986639072",
+            "name" : "Kulturhuset"
+         },
+         "end_time" : "2017-05-12T00:00:00+0200",
+         "id" : "1290927877687666",
+         "start_time" : "2017-05-11T21:00:00+0200"
+      },
+      {
+         "description" : "https://soundcloud.com/trond-kallev-g-hansen/sets/se-meg-en-annen-dag-excerpt\n\nReleasekonsert - Trond Kallevåg Hansen Trio. Konserten er del av en lengre turne som begynner med Maijazz i Stavanger mandag 8. mai med anerkjente Trompetist Tore Johansen. «Se Meg En Annen Dag» er Trond Kallevåg Hansen Trio sitt  debutalbum og slippes på plateselskapet Just For The Records fredag 5. mai. Gitartrioen har turnert rundt om i Norge og Europa og skapt seg en liten men solid fanskare med sin musikk. Trond har komponert all musikken på platen og han har bevisst gått inn for å bruke referanser og inspirasjon fra sin egen oppvekst. Alt fra Angelo Badalamenti sine enkle og sviskete melodier i Twin Peaks til lyrikken fra den ikke fullt så kjente vestnorske eksentrikeren og visemusikeren Kenneth Sivertsen. Kombinasjonen av Tronds varme surferock-inspirerte gitarlyd og hans lyriske komposisjoner tar lytteren med på en vakker og gjenkjennelig musikalsk reise, og fanger lytteren med en nærmest filmatisk kvalitet. Melodier som kan minne om allsang fra familiære høytider over til stemningsfulle improviserte strekk som musikken til sene bilturer og halv-våkne drømmer fra baksetet. Oppveksten er ifølge Trond det sentrale på denne platen og er ifølge han selv sterkt inspirert av vestnorsk visemusikk og hans hjemby Haugesund. Hver sang gjenspeiler en stemning eller opplevelse fra dette området og er selve ideen og den røde tråden gjennom platen\n\nCC. 100,-\n\nTrond Kallevåg Hansen - gitar\nAlexander Hoholm - kontrabass\nIvar Myrset Asheim - trommer",
+         "place" : {
+            "id" : "101991986639072",
+            "location" : {
+               "street" : "Youngs gate 6",
+               "zip" : "0181",
+               "country" : "Norway",
+               "city" : "Oslo",
+               "latitude" : 59.914794733399,
+               "longitude" : 10.750492215157
+            },
+            "name" : "Kulturhuset"
+         },
+         "end_time" : "2017-05-11T23:00:00+0200",
+         "name" : "Trond Kallevåg Hansen Trio (Releasekonsert)",
+         "id" : "712046845642517",
+         "start_time" : "2017-05-11T20:00:00+0200"
+      },
+      {
+         "id" : "232489773897964",
+         "start_time" : "2017-05-11T17:30:00+0200",
+         "description" : "After a sensational launch in Melbourne, NCDFREE are bringing the Innovation Incubator to Oslo - our latest event which aims to engage the next generation of leaders from health and beyond.\n\nThis 150 minute workshop will showcase the wide variety of activities and concepts which NCDFREE has developed and championed since 2013, specifically focusing on the diverse communication and advocacy tools used to engage young professionals and students in the topics of non communicable diseases and Global Health. \n\nAttendees will gain innovative thinking, advocacy and leadership skills through interactive presentations, skill sharing and design-oriented exercises. Ultimately, we aim to connect a diverse group of next generation thinkers and leaders with NCDs, NCDFREE and Global Health through stimulating and exciting activities.\n\nThis session will focus on the theme of climate change and health, and therefore we have exclusively secured the voices of emerging leaders Natalie Molino and Dr Sudhvir Singh from the EAT Initiative who will share their knowledge, skills and experiences. \n\nThis event is held in collaboration with Norwegian Public Health association and is free for all to participate regardless of background or university affiliation.\n_________\nBiography\n\nThe EAT Foundation builds on the work of the EAT Initiative, created by the Stordalen Foundation and Stockholm Resilience Centre in 2013. Together with the Wellcome Trust they launched the EAT Foundation in March 2016 with the ambition to reform the global food system, enabling us to feed a growing global population with healthy food from a healthy planet. The three organisations will use their unique range of experience in health, science, policy and sustainability, to convene experts and decision makers who together can transform the way we eat.\n\nNatalie Molino- Policy Projects Coordinator, EAT Initiative\n\nNatalie Molino is the Policy Projects Coordinator at the EAT Foundation. She is passionate about non-communicable disease prevention, food and nutrition security, climate change mitigation and community engagement. Her work currently focuses on bringing together public health and environmental sustainability expertise to transform and design global food system solutions. She holds a Bachelor of Biomedicine and a Masters of Public Health from the University of Melbourne. She has previously worked for the Obesity Policy Coalition at the Cancer Council Victoria.\n\nDr Sudhvir Singh – Director of Policy, EAT Initiative \n\nSudhvir is an Internal Medicine doctor with a background in climate change and public health advocacy. Sudhvir graduated top of his class at the Auckland School of Medicine in 2011, where he also studied for an Honours degree in Public Health. He has led the organisation Generation Zero, campaigning for better transport, urban design & climate change policy; and chaired the Doctors-in-Training Council of the New Zealand Medical Association. Sudhvir has co-edited the Environmental Health chapter in one of the leading international textbooks on global health and published articles on the health impacts of climate change.",
+         "name" : "NCDFREE Innovation Incubator X Oslo",
+         "place" : {
+            "name" : "Kulturhuset",
+            "location" : {
+               "city" : "Oslo",
+               "longitude" : 10.750492215157,
+               "latitude" : 59.914794733399,
+               "street" : "Youngs gate 6",
+               "zip" : "0181",
+               "country" : "Norway"
+            },
+            "id" : "101991986639072"
+         },
+         "end_time" : "2017-05-11T20:00:00+0200"
+      },
+      {
+         "start_time" : "2017-05-10T18:30:00+0200",
+         "id" : "1888052488151145",
+         "name" : "EØS-avtalen 25 år - hva skjedde og hvorfor?",
+         "end_time" : "2017-05-10T20:00:00+0200",
+         "place" : {
+            "id" : "101991986639072",
+            "location" : {
+               "latitude" : 59.914794733399,
+               "longitude" : 10.750492215157,
+               "city" : "Oslo",
+               "country" : "Norway",
+               "zip" : "0181",
+               "street" : "Youngs gate 6"
+            },
+            "name" : "Kulturhuset"
+         },
+         "description" : "Tirsdag 2.mai er det 25 år siden EØS-avtalen, Norges samarbeidsavtale med EU, ble signert. Avtalen knyttet Norge til EUs indre marked og er den mest omfattende økonomiske samarbeidsavtalen Norge noen gang har inngått.\n\nNationen inviterer til debatt om hvordan avtalen ble til og hvilken betydning den har for Norge i dag.\n\nI panelet:\n• Knut Almestad, Diplomat. Utenriksdepartementet sin nestleder i EØS-forhandlingene. Tjenestegjorde også som ambassaderåd og ministerråd ved den norske EF-delegasjonen i Brussel under førfasen til EØS-forhandlingene. \n• Torben Foss. Advokat og direktør i PwC. Tidligere ekspedisjonssjef i Fiskeridepartementet og forhandler av fiskeridelen av EØS-avtalen. \n• Morten Wetland. Lobbyist og tidligere Ap-politiker og diplomat. Jobbet ved Statsministerens kontor og hadde ansvaret for juridiske spørsmål under EØS-forhandlingene.\n• Hallvard Bakke. Leder av Sosialdemokrater mot EU (SME), som argumenterte for EØS-avtalen da den ble inngått.\n• Eva Nordlund. Nestleder i Nei til EU mellom 1991-1995 og motstander av EØS-avtalen. Var også EØS-sekretær for Sp-fraksjonen i Syse-regjeringen, som startet forhandlingene om EØS-avtalen.\n\nStill forberedt. Vi har gleden av å tilby et tre ukers gratis abonnement, som selvfølgelig er uforpliktende og stopper automatisk etter at de tre ukene har gått. Bestill på https://goo.gl/Ya4r5H\n\nNB: Arrangementet holdes i Kulturhusets nye lokaler, Youngs gate 6  (rett over gata fra \"gamle\" Kulturhuset)."
+      },
+      {
+         "id" : "219102955244706",
+         "start_time" : "2017-05-10T08:00:00+0200",
+         "description" : "Oslo skal halvere sine klimagassutslipp innen 2020. Det betyr at over 800.000 tonn CO2 skal kuttes i løpet av de neste tre årene. Oslopolitikerne mener det er mulig, men monner tiltakene som er foreslått, og går det fort nok?\n\nZERO og Klimaetaten i Oslo kommune inviterer til faglig påfyll og noe å bite i. \n\nVi har valgt ut tre områder der Oslo raskere kan få til større utslippskutt enn dagens klimastrategi legger opp til. Felles for disse er å bygge varige og mer effektive rammer for at innbyggere og næringsliv skal kunne opptre utslippsfritt. Smart og helhetlig organisering vil legge grunnlag for at det klimavennlige valget er økonomisk og naturlig. Felles er også at løsningene er innen rekkevidde, kan implementeres i stor skala og vil ha innbyrdes effekt på hverandre.\n\nHva skal til for å legge til rette for utslippsfri, smart bilbruk?\nHva skal til for at byens byggeplasser kan bli helt uten utslipp?\nHvordan kan varetransporten kutte sine utslipp raskt?\nPå hvilket vis kan havna bli stadig mer elektrisk?\n\nProgram: \nIntro:\n- \"Hvilke grep kan ta oss raskere til halvering av Oslos klimautslipp\", Jenny Skagestad, prosjektleder storby, ZERO \n\nUtslippsfrie biler:\n- \"Elbiler på deling - mindre utslipp og mer plass!\", Lars Ove Kvalbein, rådgiver mobilitet, Bergen kommune\n- \"Smartere lading i borettslag - hvordan løse floka for full elbilutrulling\", Filip Nag, Growth Hacker, ZAPTEC\n\nUtslippsfri anleggsplass:\n- \"Pionérarbeid for byggeplasser uten utslipp og støy\", Hege Dillner, konserndirektør stab, Veidekke\n- \"Fossilfri verdikjede for håndtering av avfall – en sentral byggekloss for klimabyen Oslo\" Hans Fredrik Wittusen, direktør for strategi og bærekraft, Norsk Gjenvinning\n\nUtslippsfri varetransport og havn:\n- \"Nye elektriske varebilmodeller endrer gatebildet\" Beathe Hall-Hofsjø, Sales & Business Development Manager EV, Renault\n- \"Muligheter for helelektrisk tungtransport til og fra havna - og grep for helt fossilfri frakt\", Erling Sæther, partner, Flowchange \n- \"Fra landstrøm til hybrid batteriskip - Veien fra fossilfritt i havna til elektrisk drift ut fjorden\", Helge Otto Mathisen, konserndirektør kommunikasjon og samfunnskontakt, Color Line\n\n- Daniel Rees, byrådssekretær for miljø og samferdsel (MDG) - kommenterer dagens innspill\n\nTid til spørsmål fra salen underveis.",
+         "name" : "Frokostseminar: Slik kan Oslo nå sine klimamål",
+         "end_time" : "2017-05-10T10:00:00+0200",
+         "place" : {
+            "id" : "101991986639072",
+            "location" : {
+               "city" : "Oslo",
+               "latitude" : 59.914794733399,
+               "longitude" : 10.750492215157,
+               "zip" : "0181",
+               "country" : "Norway",
+               "street" : "Youngs gate 6"
+            },
+            "name" : "Kulturhuset"
+         }
+      },
+      {
+         "start_time" : "2017-05-09T20:00:00+0200",
+         "id" : "1126519534124825",
+         "place" : {
+            "location" : {
+               "city" : "Oslo",
+               "longitude" : 10.750492215157,
+               "latitude" : 59.914794733399,
+               "country" : "Norway",
+               "zip" : "0181",
+               "street" : "Youngs gate 6"
+            },
+            "id" : "101991986639072",
+            "name" : "Kulturhuset"
+         },
+         "end_time" : "2017-05-09T22:00:00+0200",
+         "name" : "Robbie Bankes // Kulturhuset",
+         "description" : "Come one come all. \nA night that will be remembered for years to come. \nRobbie Bankes\nWith\nExra Special Guest \nFrederic Bech\nDrink some beer\nShare some coffee. \nThe Nordic Canadiana.  \nTuesday May 9th, Kulturhuset Oslo. 8pm\n\nFrom Calgary Canada, Robbie Bankes splits his time between Canada and the small town of Rauland Norway where he studies folk music at the University of South East Norway. Drawing from old books of ballads and new books of poems, Robbie sings and playes traditional and new songs on guitar and banjo. He has played venues, streets and houses across Canada and Europe. In  2015 he was nominated as young performer of the year at the Canadian Folk Music Awards. \"Foothills\" Robbie's Debut LP will be released in Canada and Europe June, 2017. For this special show Robbie will be joined by the talented Frederic Bech on guitar, mandolin and vocals and Jonathan Saribia on the upright bass."
+      },
+      {
+         "start_time" : "2017-05-09T08:00:00+0200",
+         "id" : "805594276263637",
+         "place" : {
+            "name" : "Youngs gate 6, 0181 Oslo, Norge"
+         },
+         "end_time" : "2017-05-09T10:00:00+0200",
+         "name" : "Kan valget i Norge også påvirkes av hackere?",
+         "description" : "Aktivitetsmålere registrerer alt fra antall skritt til søvnkvalitet. Siri sender meldinger for deg og sjekker kalenderen din. Google husker når du sist besøkte Kulturhuset og dine gamle e-poster er lagret et eller annet sted i skyen. Vi lever i et samfunn som er helt avhengig av kommunikasjonsteknologi. Dette gjør oss sårbare mot dataangrep. Cybertrusler mot kritisk infrastruktur øker og USA-valget har vist oss hvordan data kan komme på avveie. Hva med valget i Norge? Flere politiske partier har blitt hacket det siste året og PST sin trusselvurdering viser at spionasje er blant de største truslene mot Norge. Hvordan kan vi sikre at Norge har ressursene og kompetansen som skal til for å hindre cyberangrep? Hva skjer når teknologiutviklingen går raskere enn de politiske beslutningsprosessene som skal ivareta sikkerhetshensyn?\n\nDen 9. mai mellom kl. 08:30 og 10:00 arrangerer NITO et frokostmøte på Kulturhuset om valghacking og datasikkerhet. Det vil bli gitt en demonstrasjon av hvordan hacking foregår som  etterfølges av en paneldebatt med politikere, sikkerhetshetseksperter og hackere.\n\nI panelet stiller: \n\nAnders B. Werp, stortingsrepresentant for Høyre\nIngrid Langerud, kommunikasjonssjef i Arbeiderpartiet\nPer Thorsheim, sikkerhetsrådgiver i Passordninja\nTrond Markussen, president i NITO\nHans Christian Pretorius, leder for Cybersikkerhetsavdelingen i Nasjonal Sikkerhetsmyndighet (NSM)\n\n\nDebattleder: Christina Gulbrandsen, redaktør i NITO Refleks"
+      },
+      {
+         "description" : "Søndag den 7.mai er det duket for en helaften på kulturhuset. \nDet Trondheimsbaserte bandet Barrage 6 kommer til Oslo for å gjøre sin første konsert her, og før dem spiller Oslobaserte Bear Brother. Kom og hør! \n\nBARRAGE 6\nDen kreative scenen tilknyttet AACM, plateselskapet ESP-disk og de kompositoriske nyvinningene på 1900-tallet er i aller høyeste grad grunnlaget for Barrage 6 sin musikk. Det samme gjelder arven til Eric Dolphy og Ornette Coleman, som er sentrale i bandets uttrykk. Man ønsker gjerne å skape noe nytt, men den oppgaven i seg selv er absurd. Målet er heller å skape kreativ musikk.\n\nBandet består av: \nSigne Emmeluth - Altsax og bassklarinett\nChristian Cuadra - Alt- og sopransax\nErlend Vangen Kongtorp - Tenor- og altsax\nHogne Kleiberg - Piano\nIngvald Andre Vassbø - Trommer \nAlexander Riris - Kontrabass\n\nBear Brother:\nEr en ny NMH basert kvintett som spiller energisk og melodiøs frijazz med referanser til både amerikansk og europeisk improvisasjonsmusikk. \nBandet spilte sin debutkonsert på Mir den 7.februar, her kan du skjekke ut noen klipp der ifra! \n\nhttps://www.youtube.com/watch?v=Ifs3FH7vFsw\n\nBandet bestar av:\nErling Skorpen - Trompet\nLauritz Lyster Skeidsvoll - Tenor Sax. \nIsach Skeidsvold - Piano\nHåkon Nordby Bjørgo - Kontrabass\nMartin Mellem - Trommer\n\n\nKonsertstart kl 20:00\nCC: 150/100",
+         "end_time" : "2017-05-07T23:00:00+0200",
+         "place" : {
+            "name" : "Kulturhuset",
+            "id" : "101991986639072",
+            "location" : {
+               "longitude" : 10.750492215157,
+               "latitude" : 59.914794733399,
+               "city" : "Oslo",
+               "street" : "Youngs gate 6",
+               "zip" : "0181",
+               "country" : "Norway"
+            }
+         },
+         "name" : "Barrage 6 + Bear Brother på Kulturhuset",
+         "id" : "1903487109937166",
+         "start_time" : "2017-05-07T20:00:00+0200"
+      },
+      {
+         "description" : "🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵️️️️️️️️️\n\nHvem skal lede Frankrike de neste fem årene?\n \nSkal EUs nest største økonomi for første gang velge en kvinne som øverste sjef, populisten Marine Le Pen? Eller blir det enda en énarque, i den stilsikre utfordreren og elitisten Emmanuel Macron?\n \nSammen med Europabevegelsen, Tankesmien Agenda, Den Norske Atlanterhavskomité, Institutt for litteratur, områdestudier og europeiske språk ved University of Oslo, inviterer Du verden! til fransk valgvake og europeisk skjebneaften på Kulturhuset i Oslo!\n \nOm du er frankofil eller frankofob vil du definitivt få mer enn baguetter å bite i denne kvelden. Fra scenen blir det debatter og analyser med eminente gjester, og fra skjermen strømmer valgdagsmålinger og resultater helt til vi finner ut hvem som blir den femte republikks åttende president.\n \nHvordan skjedde det? Hvor er Frankrike på vei? Og hva betyr det for Europa?\n \nFinn fram alpelua, voks mustachen, farg håret blått og gjør deg klar for en politisk thrilleraften!\n \nPROGRAM (Alt er cirkatider, med innlagte pauser):\n\n18:00 - Åpning av kvelden, ved Christian Borch, Ingerid Salvesen og Stig Arild Pettersen.\n\n18:10 - Fransk politikk for dummies.\nKjerstin Aukrust, førsteamanuensis i fransk litteratur og områdekunnskap, UiO\n\n18:20 - Panel 1: Fransk politikk er snudd på hodet. Hvorfor? \n- Raino Malnes, professor, Inst. for statsvitenskap, UiO\n- Marte Mangset, postdoktor, HiOA\n- Franck Orban, førsteamanuensis, Høgskolen i Østfold\n\n19:15 - Panel 2: Hva er populismens fremtid i Europa?\n- Kate Hansen Bundt, gen.sekr., Atlanterhavskomiteen\n- Jan Erik Grindheim, leder, Europabevegelsen\n- Sylo Taraku, rådgiver, Agenda\n- Anders Ravik Jupskås, forsker, Senter for ekstremismeforskning: høyreekstremisme, hatkriminalitet og politisk vold, UiO\n\n20:00 - De første resultatene kommer inn, vi følger med på storskjerm.\n\n20:15 - Kommentarer til resultatene fra Raino Malnes, Marte Mangset og Manuela Ramin-Osmundsen.\n\n20:30 - En Marche! Hva er veien videre for Frankrikes nye politiske bevegelse? Kort samtale med Jean-Yven Gallardo fra En Marche!\n\n21:00 - Hva skjedde med Frankrikes tradisjonelle høyre- og venstrepartier? Samtale med Audun Lysbakken og Terje Osmundsen.\n\nDu verden! er hele Norges favorittutenrikspodkast, med Christian Borch, Ingerid Salvesen og Stig Arild Pettersen, og produseres i samarbeid med forlaget Cappelen Damm. Du finner Du verden! i iTunes eller podcast-appen på telefonen din, eller på soundcloud.com/duverden\n\n  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵  🇨🇵 ️🇨🇵️️️️️️️️️",
+         "place" : {
+            "location" : {
+               "latitude" : 59.914794733399,
+               "longitude" : 10.750492215157,
+               "city" : "Oslo",
+               "street" : "Youngs gate 6",
+               "country" : "Norway",
+               "zip" : "0181"
+            },
+            "id" : "101991986639072",
+            "name" : "Kulturhuset"
+         },
+         "end_time" : "2017-05-07T23:00:00+0200",
+         "name" : "Fransk valgvake med Du verden!",
+         "id" : "1742339476079010",
+         "start_time" : "2017-05-07T18:00:00+0200"
+      },
+      {
+         "start_time" : "2017-05-06T13:00:00+0200",
+         "id" : "511359109254156",
+         "place" : {
+            "name" : "Kulturhuset",
+            "id" : "101991986639072",
+            "location" : {
+               "street" : "Youngs gate 6",
+               "country" : "Norway",
+               "zip" : "0181",
+               "city" : "Oslo",
+               "latitude" : 59.914794733399,
+               "longitude" : 10.750492215157
+            }
+         },
+         "end_time" : "2017-05-06T16:00:00+0200",
+         "name" : "Vegankaketreff",
+         "description" : "Ta med en vegansk kake/søtsak, møt opp, spis og kos deg! Det er den eneste betingelsen for å komme inn. Og ja, det er lov å ta med noe innkjøpt (men veldig populært om det er hjemmebakt).\n\nTreffet arrangeres av kakeglade ildsjeler som pleier å være på vegantreffene til Norsk vegansamfunn. Vi har kjørt kaketreff hjemme hos hverandre i vinter, men nå vil vi få dette fantastiske konseptet ut til folket. Vårt tips: Ikke spis frokost før treffet. Da er det plass til mer kake. Og ikke tenk på middagen. Spis kake! Vi er voksne nå. Det er lov. \n\nLet us eat cake! 😋\n\nPS! Treffet vil være i Biblioteket i nye Kulturhuset. Det vil være anledning til å kjøpe både kaffe, te og brus."
+      },
+      {
+         "start_time" : "2017-05-06T12:00:00+0200",
+         "id" : "458788031179702",
+         "end_time" : "2017-05-06T17:00:00+0200",
+         "place" : {
+            "name" : "kulturhuset Youngsgate 6"
+         },
+         "name" : "The Fashion Archives, Oslo, vol. 28",
+         "description" : "Oslo's largest fleamarket with clothes only taking over the brand new Kulturhuset !! \nWe will fill several floors with Oslo's fashionistas, bloggers, collectors and fashion retailers who sell from their private wardrobes! \n\nOur dj Anne Valeur will be playing records all day, there are bars, sofas, games, a super cosy inner courtyard and lots of hangout spots - so come by for a drink, a dance and some indoors Saturday Fleamarket! \n\nMens- and womens wear so bring your boo ♥\n\n*******\nIf you're wondering how to sell, go check out The Fashion Archives fan page hosting this event. It's also super for keeping up to date on future events! Subscribe to our events and you'll always be the first to know when the next market is coming up!"
+      },
+      {
+         "place" : {
+            "location" : {
+               "city" : "Oslo",
+               "latitude" : 59.914794733399,
+               "longitude" : 10.750492215157,
+               "street" : "Youngs gate 6",
+               "zip" : "0181",
+               "country" : "Norway"
+            },
+            "id" : "101991986639072",
+            "name" : "Kulturhuset"
+         },
+         "end_time" : "2017-05-06T03:00:00+0200",
+         "name" : "Husfest med Sjøvoll & Spilt Melk II Kulturhuset",
+         "description" : "Endelig er det ikke bare trekkfuglen som sprader i vårsola.  Vesterålsemigranten Dj Sjøvoll og Spilt Melk  har plottet inn nytt postnummer og buklander vel på Kulturhuset så pass sent at hoftesausen allerede er tunet inn på lettbent og herlig husmusikk. Skal det lades opp anbefaler Sjøvoll og Spilt Melk å smøre kroppen inn en rik og fyldig lotion, etterfulgt av passe mengde bass toppet med noen minutter AshtangaYoga. \n\nDu kan forvente deg lettbent upopulærpopulærmusikk som skrangler såpass hardt at det å bruke mengder av penger på håroppsatser denne kvelden vil være bortkastet. Sjangermessig elsker Sjøvoll og Spilt Melk å traversere mellom eklektiske soulfylte fire-falte, noe som for noen kan virke skamløst for andre bare pur lykke. \n\nOfte sett på: Angst, Oslo Camping, Kulturhuset, Uhørt, Hvaskjer, Cafe Stift, LAB.. og litt slikt diverse.",
+         "start_time" : "2017-05-05T22:00:00+0200",
+         "id" : "873921122746114"
+      },
+      {
+         "start_time" : "2017-05-04T19:00:00+0200",
+         "id" : "188746138304430",
+         "place" : {
+            "name" : "Kulturhuset",
+            "id" : "101991986639072",
+            "location" : {
+               "city" : "Oslo",
+               "longitude" : 10.750492215157,
+               "latitude" : 59.914794733399,
+               "country" : "Norway",
+               "zip" : "0181",
+               "street" : "Youngs gate 6"
+            }
+         },
+         "end_time" : "2017-05-04T22:00:00+0200",
+         "name" : "Musikksnakk: Lyden av betong, en hip hop reise!",
+         "description" : "Velkommen til en ny MUSIKKSNAKK på Kulturhuset!\n\nMUSIKKSNAKK er en serie musikkforedrag laget av Guttorm Andreasen, musikkjournalist, entusiast, DJ, arrangør og musiker, kjent fra NRK P3/P2/P13 og som DJ 99.\n\nI MUSIKKSNAKK får du masse musikk, historier, anekdoter, sammenhenger og de store og små musikksirklene som griper inn i hverandre hele tiden.\n\nFor noen uker siden døde Cecil Bustamente Campbell, bedre kjent som Prince Buster.\n\nPå begynnelsen av 60-tallet var han en av mange nye artister og produsenter som gjerne ville skape en egen musikalsk identitet for den helt ferske øystaten Jamaica. I 1961 ga han ut sin første single.\nPrince Buster ble den aller første og største ska-stjernen. Men det kanskje viktigste han gjorde, skjedde i 1960. Da dro han opp i fjellene utenfor Kingston for å finne en gjeng bortgjemte, religiøse, mystiske og mytiske, passe sekteriske trommeslagere som spilte trommer etter eldgamle afrikanske mønstre.\n\nDa Prince Buster produserte låta \"Oh Carolina\" med brødrene Foulkes og Nyabinghi-trommegruppa og rastafarianerne Count Ossie's Afro Combo som komp ante han neppe at han med det startet lyden av moderne musikk.\n\nUten denne låta og denne hendelsen hadde det kanskje ikke vært noe hip hop, techno, EDM, Kygo, grime, trap og alt annet vi hører på i dag.\n\nInteressert i å få vite hvorfor og mere, og ikke minst høre masse spennende musikk på veien fram til i dag? Velkommen til Musikksnakk!"
+      },
+      {
+         "name" : "Politisk pub - EØS bestemmer over arbeidslivet",
+         "end_time" : "2017-05-04T20:00:00+0200",
+         "place" : {
+            "name" : "Kulturhuset",
+            "id" : "101991986639072",
+            "location" : {
+               "street" : "Youngs gate 6",
+               "zip" : "0181",
+               "country" : "Norway",
+               "latitude" : 59.914794733399,
+               "longitude" : 10.750492215157,
+               "city" : "Oslo"
+            }
+         },
+         "description" : "EØS-avtalens krav om fri konkurranse øker presset på å markedsrette og outsource stadig nye områder, og vanskeliggjør arbeidet mot sosial dumping. I to nye rapporter dokumenterer De Facto hvordan EØS bestemmer over norsk arbeidslivslovgivning, ILO-konvensjoner og norske tariffavtaler – stikk i strid med kravene fra forrige LO-kongress. På samferdselsområdet svekker EØS-harmoniseringen sikkerheten i luften, på jernbanen og på veiene. Makten over regelverk og kontroll flyttes ut av Norge, samtidig som lønns- og arbeidsvilkårene presses nedover.\n\nHvilket handlingsrom har norske politikere og norsk fagbevegelse innenfor EØS-avtalen? Om EØS-avtalen undergraver standardene i norsk arbeidsliv, vil årets LO-kongress ta konsekvensene av det?\n\nPanel:\n• Jane B Sæthre, forbundsleder i Norsk Jernbaneforbund.\n• Arne Rødby, klubbleder Akers Solutions Tranby.\n• Boye Ullmann organisasjonsarbeider Rørleggernes Fagforening Oslo.\nOrdstyrer: Roar Eilertsen fra De facto.\n\nArrangert av LO i Oslo i samarbeid med Manifest Tankesmie, For velfersstaten og De facto.",
+         "start_time" : "2017-05-04T18:00:00+0200",
+         "id" : "247731328964556"
+      },
+      {
+         "id" : "670121326522919",
+         "start_time" : "2017-05-04T08:00:00+0200",
+         "description" : "Hvilke fordeler og ulemper fører økt handel med seg? Hvordan har globalisering og handelsavtaler påvirket lønn, ulikhet og arbeidsvilkår i Norge? Hvordan har den norske modellen møtt utfordringene fra økt arbeidsinnvandring gjennom EØS? Og, hvor går vi nå?\nPåmelding: http://tankesmienagenda.no/arrangementer/480/proteksjonismens-tid/\n\nDu hører fra:\n-      Liv Signe Navarsete, stortingsrepresentant og medlem av Utenrikskomiteen, Senterpartiet\n–    Arne Melchior, seniorforsker på internasjonal handel og global utvikling, NUPI\n–    Jonas Bals, rådgiver i Arbeiderpartiet og forfatter av boken «Hvem skal bygge landet?»\n–    Leif Sande, Industri og Energi\n–    Line Eldring, rådgiver i Fellesforbundet og ekspert på fagorganisering og lønnsdannelse\n–    Sigrid Hagerup Melhuus, rådgiver, Agenda\n+ flere navn kommer!\n\nPå Agendamorgen torsdag 4. mai kl. 0800-0900 presenterer Agenda et notat som ser på effekten av globalisering og handelsavtaler på lønnsdannelse og arbeidsvilkår i Norge. \n\nVelkommen til Agendamorgen torsdag 4. mai kl. 0800-0900. Frokost serveres fra kl. 0730. OBS: Kulturhuset har på dette tidspunktet flyttet til Youngs gate 2, rett rundt hjørnet fra dagens adresse.",
+         "end_time" : "2017-05-04T09:00:00+0200",
+         "place" : {
+            "name" : "Kulturhuset",
+            "id" : "101991986639072",
+            "location" : {
+               "city" : "Oslo",
+               "latitude" : 59.914794733399,
+               "longitude" : 10.750492215157,
+               "country" : "Norway",
+               "zip" : "0181",
+               "street" : "Youngs gate 6"
+            }
+         },
+         "name" : "EØS, handel og den norske modellen"
+      },
+      {
+         "description" : "Den franske valgkampen har vært full av kontraster, med den tidligere finansmannen Emmanuel Macron, høyrepopulisten Marine Le Pen, kontroversielle François Fillon og venstreutfordreren Jean-Luc Mélenchon. Nå står det endelige valget mellom Macron og Le Pen. \n\nKlassekampen gjør opp status og spør:\n\n• Hvor går veien for Frankrike - og den franske venstresida?\n\nI panelet:\n\n• Sandra Lillebø, spaltist og kritiker i Klassekampen\n• Emil André Erstad, rådgiver i tankesmia Agenda\n• Remi Nilsen, redaktør i norske Le Monde Diplomatique\n\nOrdstyrer: Yngvild Gotaas Torvik, Klassekampen\n\nStill forberedt! Få Klassekampen gratis i 3 uker: http://www.klassekampen.no/kampanje/3_uker?coupon=klk.2423\n\nNB: Arrangementet holdes i Nye Kulturhuset, Youngs gate 6.\n\nArrangementet har 20 års aldersgrense.",
+         "name" : "Klassekampen-debatten: Frankrike til valgurnene",
+         "place" : {
+            "location" : {
+               "city" : "Oslo",
+               "longitude" : 10.750492215157,
+               "latitude" : 59.914794733399,
+               "zip" : "0181",
+               "country" : "Norway",
+               "street" : "Youngs gate 6"
+            },
+            "id" : "101991986639072",
+            "name" : "Kulturhuset"
+         },
+         "end_time" : "2017-05-03T20:00:00+0200",
+         "id" : "1773580822956734",
+         "start_time" : "2017-05-03T18:30:00+0200"
+      },
+      {
+         "start_time" : "2017-05-03T18:00:00+0200",
+         "id" : "1763250797283258",
+         "name" : "Perspektivquiz 3. mai",
+         "place" : {
+            "id" : "101991986639072",
+            "location" : {
+               "street" : "Youngs gate 6",
+               "country" : "Norway",
+               "zip" : "0181",
+               "city" : "Oslo",
+               "longitude" : 10.750492215157,
+               "latitude" : 59.914794733399
+            },
+            "name" : "Kulturhuset"
+         },
+         "description" : "Hvem blir de neste til å smykke seg med tittelen «Mesterhjerner innen krig og fred og sånn»? \n\nNok en gang utfordrer Flyktninghjelpen og Bistandsaktuelt andre NGOer, journalister, faktafreaks, besserwissere og alle interesserte til en ny runde Perspektivquiz. \n\nTa med deg venner og kolleger og kom som et lag, eller kom som du er – så finner vi et lag til deg. En gullende vakker vandrepokal fylt med godteri venter vinnerlaget!\n\nDenne gangen er vi i det splitter nye Kulturhuset, i Youngs gate 6. Laboratoriet ligger i 3. etasje. \n\nPS: Det trekkes ett poeng pr hode på quizlaget. \n\nVi quizzes!"
+      },
+      {
+         "description" : "Kulturhuset flytter til nye lokalere i Youngsgate 6 og der spiller vi i åpningsuken deres.  \nSom vanlig første tirsdag i måneden er vi, High Tune Swingorchestra sammen med Bårdar Swing Club. Og er du i tvil så garanterer vi å levere en forrykende storbandswingdansekveld. \n\nSå kom og sjekk ut Kulturhusets nye lokaler. Vi gleder oss ihvertfall til å spille der. Ta med venner, dans, nyt og/eller bare lytt til herlig swingmusikk.\nSes!",
+         "name" : "High Tune Swingorchestra med Bårdar Swing Club",
+         "end_time" : "2017-05-02T23:30:00+0200",
+         "place" : {
+            "location" : {
+               "country" : "Norway",
+               "zip" : "0181",
+               "street" : "Youngs gate 6",
+               "longitude" : 10.750492215157,
+               "city" : "Oslo",
+               "latitude" : 59.914794733399
+            },
+            "id" : "101991986639072",
+            "name" : "Kulturhuset"
+         },
+         "id" : "549303678790854",
+         "start_time" : "2017-05-02T20:30:00+0200"
       }
-   ]
+   ],
+   "paging" : {
+      "next" : "https://graph.facebook.com/v2.8/101991986639072/events?access_token=EAACEdEose0cBALJ9fxuZAtaV6Jvbtj4qWPamZBGsBWICVnPrfvIgn8dNYcAhdij9y4Xm0hXAFsVZBgbBvr9mdu82LZAmuXBqEn54MIZARxmn17jZBLFN6MkKBRw2sfSfklFRIPBHNS3SAURrJIDeJWBZBg4Yvy2K6TE7gBIPl7GH4DKgGyjyrFmhXlhZAQzNSbYZD&limit=25&after=NTQ5MzAzNjc4NzkwODU0",
+      "cursors" : {
+         "after" : "NTQ5MzAzNjc4NzkwODU0",
+         "before" : "MTE5ODUxNDg2MDI2Nzc1MAZDZD"
+      }
+   }
 }

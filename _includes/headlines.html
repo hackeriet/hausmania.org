@@ -2,7 +2,7 @@
 {% for post in site.posts limit: 5 %}
             <li class="col col-md-6">
               <a href="{{ post.url }}">
-                <h3>{{ post.date }}</h3>
+                  <h3>{{ post.date | date: "%d/%m %H:%M" }}</h3>
                 <p>{{ post.title }}</p>
               </a>
             </li>
