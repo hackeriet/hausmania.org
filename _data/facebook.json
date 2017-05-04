@@ -1,0 +1,104 @@
+{
+   "paging" : {
+      "cursors" : {
+         "before" : "MTIzNTM2NDY3OTg1Mzg5NgZDZD",
+         "after" : "NjA4Mzg4NDkyNjYzNzQw"
+      }
+   },
+   "data" : [
+      {
+         "id" : "1235364679853896",
+         "place" : {
+            "location" : {
+               "street" : "Josefines gate 34",
+               "longitude" : 10.72367,
+               "zip" : "0351",
+               "latitude" : 59.9218,
+               "city" : "Oslo",
+               "country" : "Norway"
+            },
+            "name" : "Arkitektenes Hus",
+            "id" : "181792988527779"
+         },
+         "start_time" : "2016-10-19T18:00:00+0200",
+         "description" : "Kan en reguleringsplan være et verktøy for en mere demokratisk og deltagende byutvikling? Og kan Hauskvartalet fortsatt bli et byøkologisk kulturkvartal i henhold til intensjonen i reguleringsplanen og et enstemmig bystyrevedtak? \n\nHauskvartalet har gjennom reguleringen til byøkologisk kulturkvartal det beste utgangspunktet for å prøve ut, i norsk sammenheng ny metodikk, i område- og byutvikling. Internasjonalt ser vi hvordan medvirkende og samskapende byutvikling gir gode resultater og kvaliteter. I Norge er dette begrenset til en sterk faglig interesse, men med liten erfaring med praktisk gjennomføring. Det har derfor vært knyttet store forventninger til Hauskvartalet som pilotprosjekt for denne type utvikling.\n\nEtter at store deler av Hauskvartalet ble solgt til den private eiendomsutvikleren Urbanium, framstår situasjonen som fastlåst for alle parter.   \n\nHausmania inviterer derfor til et miniseminar for å se om det fortsatt er mulig å realisere intensjon og ambisjon i reguleringsplanen på en måte som gir nye og positive erfaringer for norsk byutvikling, og der alle parter opplever sine interesser ivaretatt på best mulig måte i prosess og resultat.\n\nPROGRAM\n18.00 Velkommen\n\nDel en \"Den medvirkende byen\"\n18.10 Lokal Agenda 21 med Camilla Sørensen Eidsvold, Fredrikstad Kommune\n18.30 Medvirkning og muligheter med Gro Sandkjær Hanssen, NIBR\n\n18.50 Intermezzo\nEn liten film av Massiv - Small\n\nDel 2 \"Hauskvartalet\"\n19.00 Visjon for Hauskvartalet ved Urbanium \n19.10 Suksess med medvirkning ved Frederica Miller, Gaiaarkitektene\n19.30 Muligheter og begrensninger i Hauskvartalet ved Arild Eriksen, Eriksen Skajaa Arkitekter\n19.50 Vinn – Vinn – Vinn i Hauskvartalet ved Ole Pedersen, Hausmania\n20.05 Dialog om muligheter i Hauskvartalet ved Frederica Miller, Arild Eriksen, Urbanium og Harald Nissen (Miljøpartiet de Grønne).\n\n20.40 Takk for i dag",
+         "name" : "Fortsatt muligheter i Hauskvartalet?",
+         "end_time" : "2016-10-19T20:40:00+0200"
+      },
+      {
+         "end_time" : "2016-09-23T23:00:00+0200",
+         "name" : "Elvelangs",
+         "start_time" : "2016-09-22T20:00:00+0200",
+         "place" : {
+            "name" : "Hausmania Kulturhus",
+            "location" : {
+               "street" : "Hausmannsgate 34",
+               "longitude" : 10.75198,
+               "zip" : "0182",
+               "latitude" : 59.91915,
+               "city" : "Oslo",
+               "country" : "Norway"
+            },
+            "id" : "230514097330176"
+         },
+         "id" : "1095233697225957"
+      },
+      {
+         "start_time" : "2016-06-02T18:00:00+0200",
+         "place" : {
+            "name" : "PODIUM",
+            "location" : {
+               "street" : "Hausmannsgate 34",
+               "longitude" : 10.75198,
+               "zip" : "0182",
+               "latitude" : 59.91915,
+               "city" : "Oslo",
+               "country" : "Norway"
+            },
+            "id" : "264986345239"
+         },
+         "id" : "1719850251590270",
+         "end_time" : "2016-06-02T21:00:00+0200",
+         "name" : "Hausmaniafestivalen - Hva nå Hauskvartalet?",
+         "description" : "Åpning av utstillingen \"Hjem kjære Hjem\". En dokumentarisk utstilling som viser film og foto fra Brakkebygrenda, Lysopp Husmannsplass, Enebakkveien 37, Vestbredden, Hausmannsplatz og Hauskvartalet.\n\nPerformance med Crotonic X\nSamtale med Frederica Miller\nPresentasjon av fotografene og de ulike prosjektene\nKonsert med Mr. Orkester\n\nForfriskende servering.\n\n11 mai vedtok bystyret å selge Hauskvartalet, utenom Hausmania, til den kommersielle utvikleren Urbanium.\n\nByråd Hanna Marcussen har sagt at et byøkologisk kvartal i Hausmannsgate er viktig for Oslo, og at salget betyr at arbeidet med realiseringen av kulturkvartalet endelig kan komme i gang. Hun, og hennes partifeller Harald Nissen og Shoaib Sultan, forsikrer om at kommunen vil bidra for å sikre at intensjonen med reguleringen oppfylles.  \n\nTil tross for dette har et samlet Hauskvartal sagt nei til salget og mener at salget i seg selv er ødeleggende for en realisering av den enstemmig vedtatte reguleringen. \n\nHva er egentlig denne reguleringen for Hauskvartalet som alle snakker om? Hvordan samsvarer prosjektbeskrivelsen fra Urbanium med reguleringen? Hva er det man sikter til når man snakker om reguleringens intensjon? Og er det mulig å se for seg at reguleringens intensjon kan ivaretas etter salget til Urbanium? Hvordan eller hvorfor ikke?\n\nDisse spørsmålene skal vi prøve å finne svar på i samtale med Gaia-arkitekt  Frederica Miller. Miller var kommunens prosjektleder for reguleringsprossessen."
+      },
+      {
+         "name" : "Hausmaniafestivalen - Utstilling - Hjem Kjære Hjem",
+         "end_time" : "2016-06-04T19:00:00+0200",
+         "description" : "Festivalutstillingen er tradisjonelt en anledning der vi viser fram ulike visuelle uttrykk som er skapt på Hausmania gjennom året.\n\nPå grunn av bystyrets vedtak om salg av hele Hauskvartalet, utenom Hausmania, blir årets utstilling litt annerledes.\n\nI stedet for den tradisjonelle kunstutstillingen presenterer vi i år en film og fotodokumentarisk utstilling fra ulike byøkologiske boliger, prosjekter og initiativ som har slektskap til Hauskvartalet.\n\nDet vil bli vist film og  foto fra Brakkebygrenda, Lysopp Husmannsplass, Enebakkveien 37, Vestbredden, Hausmannsplatz og Hauskvartalet.\n\nUtstillere:\nAnita Hillestad\nMads Faste Liang Nilsen\nJavier Auris\nØyvind Aukrust\nVilde Thomsvik\n\nUtstillingsåpning torsdag klokken 18.00.\nPerformance med Crotonic X\nPresentasjon av fotografene og de ulike prosjektene\nSamtale med Ole Pedersen og Frederica Miller\nKonsert med Mr. Orkester\n\nhttps://www.facebook.com/events/1719850251590270/\n\nÅpent fredag og lørdag 13.00 - 19.00\n\nVIsning av Anita Hillestad sin film \"Brakkebygrenda\" begge dagene klokken 18.00.",
+         "place" : {
+            "location" : {
+               "zip" : "0182",
+               "city" : "Oslo",
+               "latitude" : 59.91915,
+               "country" : "Norway",
+               "street" : "Hausmannsgate 34",
+               "longitude" : 10.75198
+            },
+            "name" : "PODIUM",
+            "id" : "264986345239"
+         },
+         "start_time" : "2016-06-02T18:00:00+0200",
+         "id" : "1708114316096341"
+      },
+      {
+         "start_time" : "2016-06-02T18:00:00+0200",
+         "place" : {
+            "name" : "Hausmania Kulturhus",
+            "location" : {
+               "longitude" : 10.75198,
+               "street" : "Hausmannsgate 34",
+               "city" : "Oslo",
+               "latitude" : 59.91915,
+               "country" : "Norway",
+               "zip" : "0182"
+            },
+            "id" : "230514097330176"
+         },
+         "id" : "608388492663740",
+         "name" : "Hausmaniafestivalen",
+         "description" : "Den årlige vårfestivalen på Hausmania.\n\nHauskvartalet er under angrep. Mesteparten av kvartalet er vedtatt solgt til den kommersielle utvikleren Urbanium. Og byrådet har hastet gjennom en ordre til Politiet om å kaste ut Hausmannsplatz, den nye vognplassen på Brenneriveien 1. \n\nKulturhuset Hausmania inviterer likevel, eller nettopp derfor, til festival igjen.\n\nDet blir musikk, performance, dans, klubb, debatt, utstilling, mat, drikke, de beste folka og alt som hører med.\n\nTorsdag 18.00: Utstillingsåpning på Podium.\nhttps://www.facebook.com/events/1719850251590270/\n\nUstillingen:\nhttps://www.facebook.com/events/1708114316096341/\n\nFredag 18.00:\nKonserter i bakgården:\n\nKl. 19:00 Meon a Mission\nKl. 20:00 Actionfredag\nKl. 21:00 Krümpznylt\nKl. 22:00 Street Fajita\n\nLørdag 14.00:\nKonserter i bakgården\n\nBARNEPROGRAM KL 14 - 17\n14.00  DØMT (Barnepønk)\n14.30 5 RYTMER DANS FOR BARN\n15.30 UFOKUNST & ANSIKTSMALING\n16.30 ÅPENT LEKELAND\n\nKl. 14:00 DØMT, barnepønk\nKl. 15:00 SKADA\nKl. 16:00 Oslo Hardkor\nKl. 17:00 Wild Man\nKl. 18:00 Gunnar Gram Franck\nKl. 18:50 Madie & Bing\nKl. 19:15 Eyvind Lund\nKl. 20:00 Alle Gode Ting\nKl. 21:00 Mirramaze\nKl. 22:00 Dromedar\nKl. 23:00 Bernard Briis Band\nIkke tidsatt Ingrid Bomann-Larsen, akustisk\n\nLørdag 19.00\nCrotonicX with friends sudden performance\n\n- Elise Austad : \" OCD \"\n\"Verket handler om Tvangstanker og er en intuitiv og kompulsiv\nutforskning av ting som oppleves nødvendig å gjøre, og hva man har lyst til å uttrykke. \nByrommet er i stor grad utforma utenfor vår makt, og her går vi hver dag og drømmer.\"\n\n- Chollada Phinitduang/Karoline Ruderaas Albrigtsen : \" Flood FuzZ \"\n\"Hva tenker du når du hører ordet mensen? Syklusen er en naturlig del av det å være kvinne.\nGjennom performance kommenterer utøverne den ladede diskusjonen rundt mensen og det som følger med.\"\n\n- CrotonicX : \" SCHA: DeathDoDance II \"\n“Call it Human Right, Resistance, Revolt or Riot. Revolution is the spirit of breath, body and brain in total motion. And Revolution will happen when dance becomes personal, the personal becomes political, political becomes a path, and the path is a dance.”\n\n\nLørdag 23.00 \nOslo Dub Club\n\nRoastfish & Cornbread sound system er mer eller mindre født og oppvokst på huset og står bak utallige arrangementer i kvartalet under fana Oslo Dub Club og etterfesten på musikkens dag har vært tradisjon \nsiden 2009. \n\nEtter noen få års opphold smeller det til igjen ikveld, med hjemmemekka høyttalere, niceness og alt som hører med. \n\nhttps://www.facebook.com/events/1141825302535176/\n\n\nDersom ikke plutselig politiet kommer for å kaste ut initiativet på Hausmannsplatz. Da risikerer vi at de legger lokk på hele kvartalet. Og det kan bli vanskelig å gjennomføre festivalen på den måten som er planlagt \n\nMen folkens, hold av helga, festival blir det uansett. Dersom det er utkastelse på gang, er det ekstra viktig at folk kommer og viser støtte.",
+         "end_time" : "2016-06-05T03:00:00+0200"
+      }
+   ]
+}
