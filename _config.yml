@@ -20,10 +20,9 @@ defaults:
     placement: bottom
 email: administrasjon@hausmania.org
 description: >
-  Please remember to change this FIXME
-  bleh
-baseurl: 
-url: 
+  Hausmania er hovedscenen for nyskapende kunst i Oslo
+baseurl:
+url:
 markdown: kramdown
 sass:
   style: compressed
