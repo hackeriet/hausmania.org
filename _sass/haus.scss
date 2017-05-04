@@ -8,5 +8,9 @@ $primary: $yellow;
 $secondary: $blue;
 $tertiary: $purple;
 
+$brand-primary: $primary;
+$brand-inverse: $secondary;
+
+@import "haus/custom-bootstrap";
 @import "haus/nav";
 @import "haus/content";
