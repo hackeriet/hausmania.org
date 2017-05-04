@@ -5,6 +5,7 @@
 #wrapper > section {
   min-height: 100vh;
   padding: 4rem 2rem;
+  display: flex;
 }
 
 #top {
@@ -81,5 +82,40 @@
     position: absolute;
     left: 0;
     width: 100%;
+  }
+}
+
+#groups {
+  background-color: $primary;
+  @include make-row();
+
+  .group-item {
+    @include make-col-ready();
+    @include make-col(12);
+    @include media-breakpoint-up(md) {
+      @include make-col(3);
+    }
+    padding: 1rem;
+
+    .group-image {
+      display: flex;
+      align-items: center;
+      height: 8rem;
+      margin-bottom: 1rem;
+      overflow: hidden;
+      text-align: center;
+      @include media-breakpoint-up(md) {
+        height: 12rem;
+      }
+
+      img {
+        min-height: 100%;
+        @include img-fluid();
+      }
+    }
+
+    p {
+      margin: 0;
+    }
   }
 }

@@ -1,11 +1,18 @@
 ---
 layout: default
 ---
+<section id="groups">
+  <div class="col-12">
+    <h2>Grupper</h2>
+  </div>
+  <div class="row">
+    {% include grupper.html placement="top" %}
+  </div>
 
-<h1>Topp</h1>
-{% include grupper.html placement="top" %}
-
-<h1>Bunn</h1>
-{% include grupper.html %}
-
-
+  <div class="col-12">
+    <h2>Bunn</h2>
+  </div>
+  <div class="row">
+    {% include grupper.html %}
+  </div>
+</section>

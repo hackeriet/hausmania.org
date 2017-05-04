@@ -3,7 +3,7 @@
     This is just terrible, liquid doesn't do boolean algebra very well.
     Alternative is just include.placement == gruppe.placement, but this makes for a
     nice default when users forget to specify placement.
-  {% endcomment %} 
+  {% endcomment %}
   {% if include.placement == "top" and gruppe.placement == "top" %}
     {% assign show = true %}
   {% elsif include.placement != "top" and gruppe.placement != "top" %}
@@ -11,16 +11,15 @@
   {% else %}
     {% assign show = false %}
   {% endif %}
-
   {% if show %}
-    {% if gruppe.link %}
-      <a href="{{ gruppe.link }}">
-    {% endif %}
-    <img src="{{ gruppe.img }}">
-    <h2>{{ gruppe.title }}</h2>
-    {% if gruppe.link %}
-      </a>
-    {% endif %}
-    {{ gruppe.description }}
+    <div class="group-item">
+      {% if gruppe.link %}<a href="{{ gruppe.link }}">{% endif %}
+      <header class="group-image">
+        <img src="{{ gruppe.img }}">
+      </header>
+      <h3>{{ gruppe.title }}</h3>
+      {% if gruppe.link %}</a>{% endif %}
+      <p>{{ gruppe.description }}</p>
+    </div>
   {% endif %}
 {% endfor %}
