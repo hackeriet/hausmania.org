@@ -1,27 +1,57 @@
 #nav {
   background-color: transparent;
-}
 
-#nav a {
-  color: $white;
-  font-weight: bold;
-}
+  a {
+    color: $white;
+    // font-weight: bold;
+  }
 
-.navbar-brand img {
-  width: 2.5rem;
-}
+  .navbar-brand img {
+    width: 2.5rem;
+  }
 
-.navbar-nav {
-  text-align: right;
-}
+  .navbar-nav {
+    text-align: right;
+  }
 
-.nav-item {
-  border: 3px solid $white;
-  font-weigth: bold;
-  padding: .25rem;
-  // border-radius: 3px;
+  .navbar-toggler-icon {
+    background-color: rgba(255,255,255,.5)
+  }
 
-  &:not(:first-child) {
-    margin-left: .5rem;
+  .nav-item {
+    border: 3px solid $white;
+    font-weight: bold;
+    padding: .25rem;
+    // border-radius: 3px;
+
+    &:not(:first-child) {
+      margin-left: .5rem;
+    }
+  }
+
+  @include media-breakpoint-down(sm) {
+    .fancy-sm- {
+      padding: .1rem .5rem;
+      &blue {
+        background-color: $blue;
+        box-shadow: 0 0 12px 8px $blue;
+      }
+      &yellow {
+        background-color: $yellow;
+        box-shadow: 0 0 12px 8px $yellow;
+      }
+      &purple {
+        background-color: $purple;
+        box-shadow: 0 0 12px 8px $purple;
+      }
+    }
+
+    .nav-item {
+      border: none;
+
+      &:not(:last-child) {
+        margin-bottom: .75rem;
+      }
+    }
   }
 }

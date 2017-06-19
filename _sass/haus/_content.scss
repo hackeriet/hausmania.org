@@ -1,11 +1,10 @@
 #wrapper {
   min-height: 100vh;
-}
-
-#wrapper > section {
-  min-height: 100vh;
-  padding: 4rem 2rem;
-  display: flex;
+  > section {
+    min-height: 100vh;
+    padding-top: 3.5rem;
+    padding-bottom: 3.5rem;
+  }
 }
 
 #top {
@@ -34,6 +33,15 @@
   }
 }
 
+#post {
+  background-color: $brand-inverse;
+  color: $white;
+
+  .author {
+    font-size: .8rem;
+  }
+}
+
 #about {
   background-color: $primary;
   align-items: center;
@@ -59,7 +67,8 @@
       margin: 0;
       border-top: 1px solid $black;
       color: $black;
-      font-size: 1rem;
+      font-size: 1.25rem;
+      margin-bottom: .5rem;
     }
 
     p {
@@ -73,48 +82,17 @@
   background-color: $tertiary;
 }
 
-#map {
-  height: 4rem;
-  // position: relative;
+#groups {
+  background-color: $primary;
 
-  > * {
-    position: absolute;
-    left: 0;
-    width: 100%;
+  .group-item {
+    padding: 1rem;
   }
 }
 
-#groups {
-  background-color: $primary;
-  @include make-row();
-
-  .group-item {
-    @include make-col-ready();
-    @include make-col(12);
-    @include media-breakpoint-up(md) {
-      @include make-col(3);
-    }
-    padding: 1rem;
-
-    .group-image {
-      display: flex;
-      align-items: center;
-      height: 8rem;
-      margin-bottom: 1rem;
-      overflow: hidden;
-      text-align: center;
-      @include media-breakpoint-up(md) {
-        height: 12rem;
-      }
-
-      img {
-        min-height: 100%;
-        @include img-fluid();
-      }
-    }
-
-    p {
-      margin: 0;
-    }
-  }
+#kart {
+  height: 100vh;
+  background-image: url(/assets/img/kart.png);
+  background-size: cover;
+  background-position: center;
 }

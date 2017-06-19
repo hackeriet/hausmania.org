@@ -1,10 +1,9 @@
 {% comment %} possible improvement: remove posts if too old {% endcomment %}
 {% for post in site.posts limit: 5 %}
-            <li class="col col-md-6">
-              <a href="{{ post.url }}">
-                  <h3>{{ post.date | date: "%d/%m %H:%M" }}</h3>
-                <p>{{ post.title }}</p>
-              </a>
-            </li>
-
+  <li class="col col-md-6">
+    <a href="{{ post.url }}">
+        <h3>{{ post.date | date: "%d/%m %H:%M" }}</h3>
+      <p>{{ post.title }}</p>
+    </a>
+  </li>
 {% endfor %}

@@ -5,13 +5,13 @@
 
   <body>
 
-    {% include header.html %}
+    <div class="container-fluid">
+      {% include header.html %}
+    </div>
 
-    <main aria-label="Content">
-      <section id="wrapper" class="container-wide">
-        {{ content }}
-      </section>
-    </main>
+    <section id="wrapper" class="container-fluid p-0 m-0">
+      {{ content }}
+    </section>
 
   </body>
 </html>
