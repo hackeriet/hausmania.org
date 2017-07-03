@@ -13,3 +13,12 @@ bundle exec jekyll serve
 ```
 
 To update bower dependency of bootstrap, install bower-cli and run bower install bootstrap
+
+# Updating production
+
+```
+ssh rediger.hausmania.org
+cd /srv/hausmania.org ; sudo -u haus git pull
+(maybe) systemctl restart haus 
+```
+
