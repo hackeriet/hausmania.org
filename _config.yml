@@ -20,7 +20,7 @@ defaults:
     placement: bottom
 email: administrasjon@hausmania.org
 description: >
-  Hausmania er hovedscenen for nyskapende kunst i Oslo
+  Hausmania er et selvstyrt, byøkologisk kulturhus i Oslo.
 baseurl:
 url:
 markdown: kramdown
