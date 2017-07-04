@@ -33,3 +33,5 @@ exclude:
   - [vendor]
   - Gemfile
   - Gemfile.lock
+  - default.nix
+  - gemset.nix
