@@ -23,6 +23,18 @@
     </div>
   </div>
   <div class="container-fluid">
-    <div id="kart" class="row"></div>
+    <div id="mapid" class="row"></div>
+      <script>
+            var mymap = L.map('mapid').setView([59.919231,10.752149], 18);
+            var marker = L.marker([59.919231,10.752149]).addTo(mymap);
+            mymap.scrollWheelZoom.disable();
+            marker.bindPopup("<b>Hausmania</b><br>Hausmannsgate 34.").openPopup();
+            L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v10/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibGFzc2VndWwiLCJhIjoiQVNxTklPSSJ9.WGPBVU6BcFO8ptFvjWpiDA', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox.streets',
+    accessToken: 'your.mapbox.access.token'
+}).addTo(mymap);
+      </script>
   </div>
 </section>
