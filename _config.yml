@@ -40,3 +40,12 @@ exclude:
   - Gemfile.lock
   - default.nix
   - gemset.nix
+  - bower_components
+  - README.md
+  - Rakefile
+jekyll_admin:
+  hidden_links:
+    - pages
+    - uploads
+    - datafiles
+    - configuration
