@@ -26,15 +26,13 @@
     <div id="mapid" class="row"></div>
       <script>
             var mymap = L.map('mapid').setView([59.919231,10.752149], 18);
-            var marker = L.marker([59.919231,10.752149]).addTo(mymap);
+            var marker = L.marker([59.91913736963502,10.75211763381958]).addTo(mymap);
             mymap.scrollWheelZoom.disable();
-            marker.bindPopup("<b>Hausmania</b><br>Hausmannsgate 34.").openPopup();
-            L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v10/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibGFzc2VndWwiLCJhIjoiQVNxTklPSSJ9.WGPBVU6BcFO8ptFvjWpiDA', {
-    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 18,
-    id: 'mapbox.streets',
-    accessToken: 'your.mapbox.access.token'
-}).addTo(mymap);
+            marker.bindPopup("<b>Hausmania</b><br>Hausmannsgate 34.");
+                 L.tileLayer('http://tile.stamen.com/toner/{z}/{x}/{y}.png', {
+                 attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
+                maxZoom: 18,
+                }).addTo(mymap);
       </script>
   </div>
 </section>
