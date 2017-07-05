@@ -13,8 +13,8 @@
   {% endif %}
   {% if show %}
     <div class="col-12 col-md-4 col-xl-3 mb-4 mb-md-3">
-      {% if gruppe.link %}<a href="{{ gruppe.link }}">{% endif %}
-      <img class="img-fluid mb-2" src="{{ gruppe.img }}">
+      {% if gruppe.link %}<a href="{{ gruppe.link }}" target="_blank">{% endif %}
+      <img class="img-fluid mb-2" src="/assets/img/grupper/{{ gruppe.img }}">
       <h3>{{ gruppe.title }}</h3>
       {% if gruppe.link %}</a>{% endif %}
       <p>{{ gruppe.description }}</p>

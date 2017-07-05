@@ -16,7 +16,7 @@ defaults:
     path: ''
     type: grupper
   values:
-    img: /assets/img/placeholder.jpg
+    img: placeholder.jpg
     placement: bottom
 email: administrasjon@hausmania.org
 description: >
