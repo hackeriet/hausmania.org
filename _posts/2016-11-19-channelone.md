@@ -1,8 +1,5 @@
 ---
-layout: post
-title: Channel One (UK)
-author: lasse
-date: 2017-11-20
+title: "Oslo Dub Club: Channel One Sound System (UK)"
 ---
 
 oslo dub club & hausmania kulturhus
