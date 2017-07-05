@@ -1,6 +1,7 @@
 ---
 title: Hackeriet
 placement: top
-img: hackeriet.jpg
+img: hackerspaces-1.jpg
 link: https://hackeriet.no
 ---
+

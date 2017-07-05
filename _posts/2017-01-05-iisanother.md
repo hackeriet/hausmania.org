@@ -1,8 +1,8 @@
 ---
-layout: post
 title: I is another – Rimbaud i Afrika
+date: 2017-01-05 00:00:00 +01:00
+layout: post
 author: lasse
-date: 2017-01-05
 ---
 
 Grusomhetens Teater presenterer med premiere 26. Januar forestillingen:«I is another»- Rimbaud i Afrika, skrevet og regissert av gruppens kunstneriske leder Lars Øyno.

@@ -24,10 +24,11 @@ defaults:
   values:
     layout: post
 email: administrasjon@hausmania.org
-description: >
-  Hausmania er et selvstyrt, byøkologisk kulturhus i Oslo.
-baseurl:
-url:
+description: 'Hausmania er et selvstyrt, byøkologisk kulturhus i Oslo.
+
+'
+baseurl: 
+url: 
 markdown: kramdown
 sass:
   style: compressed
@@ -35,17 +36,8 @@ sass:
 gems:
 - jekyll-feed
 exclude:
-  - [vendor]
-  - Gemfile
-  - Gemfile.lock
-  - default.nix
-  - gemset.nix
-  - bower_components
-  - README.md
-  - Rakefile
-jekyll_admin:
-  hidden_links:
-    - pages
-    - uploads
-    - datafiles
-    - configuration
+- - vendor
+- Gemfile
+- Gemfile.lock
+- default.nix
+- gemset.nix

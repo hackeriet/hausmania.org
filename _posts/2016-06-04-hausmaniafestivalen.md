@@ -1,5 +1,6 @@
 ---
 title: Den årlige vårfestivalen på Hausmania
+date: 2016-06-04 00:00:00 +02:00
 ---
 
 Hauskvartalet er under angrep. Mesteparten av kvartalet er vedtatt solgt til den kommersielle utvikleren Urbanium. Og byrådet har hastet gjennom en ordre til Politiet om å kaste ut Hausmannsplatz, den nye vognplassen på Brenneriveien 1.
