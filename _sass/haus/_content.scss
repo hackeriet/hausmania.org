@@ -2,8 +2,8 @@
   min-height: 100vh;
   > section {
     min-height: 100vh;
-    padding-top: 4.2rem;
-    padding-bottom: 3.5rem;
+    padding-top: $section-padding-top;
+    padding-bottom: $section-padding-bottom;
   }
 }
 
