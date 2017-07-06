@@ -95,3 +95,49 @@
   background-size: cover;
   background-position: center;
 }
+
+#scrollHint {
+  width: $hint-size;
+  height: $hint-size;
+  background: $nav-item-bg url(/assets/img/arrow-down.svg) center center no-repeat;
+  background-size: $hint-icon-size;
+  border-radius: $hint-border-radius;
+  z-index: 1337;
+  position: absolute;
+  top: 90vh;
+  // TODO: this is not center :(
+  left: 48vw;
+  opacity: 1;
+  animation: 5s infinite normal floating;
+
+  transition-property: opacity top;
+  transition-duration: 300ms;
+  cursor: pointer;
+
+  &.hidden {
+    opacity: 0;
+    cursor: default;
+    pointer-events: none;
+  }
+}
+
+@keyframes floating {
+  from {
+    top: 90vh;
+  }
+  10% {
+    top: 93vh;
+  }
+  20% {
+    top: 90vh
+  }
+  30% {
+    top: 93vh;
+  }
+  40% {
+    top: 90vh
+  }
+  to {
+    top: 90vh;
+  }
+}

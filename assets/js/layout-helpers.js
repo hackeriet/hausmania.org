@@ -10,7 +10,23 @@ function debounce (fn, delay) {
   }
 }
 
+var $scrollHint
+
+function checkScrollHint () {
+  $scrollHint.toggleClass('hidden', window.scrollY > 200)
+}
+
 $(function () {
+  $scrollHint = $('#scrollHint')
+  $scrollHint.click(() => {
+    $.smoothScroll({
+      scrollTarget: $scrollHint.attr('data-href'),
+      afterScroll: function () {
+        window.location.hash = $scrollHint.attr('data-href')
+      }
+    })
+  })
+
   const $boxes = $('#wrapper > section')
   const $body = $('body')
   const initialBackground = $body.css('background-color')
@@ -29,8 +45,11 @@ $(function () {
     $body.css('background-color', index ? $boxes.eq(index).data('bgcolor') : initialBackground)
   }
 
-  const cb = debounce(updateBackground, 175)
-  document.onscroll = cb
+  // Set onscroll events
+  document.onscroll = debounce(function () {
+    updateBackground()
+    checkScrollHint()
+  }, 77)
 
   // Update initial state on load
   setTimeout(function () {

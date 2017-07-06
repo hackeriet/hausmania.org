@@ -14,6 +14,11 @@ $brand-inverse: $secondary;
 $nav-item-bg: rgba(0, 0, 0, .2);
 $nav-item-border: 3px solid $white;
 
+// Scroll-hint arrow
+$hint-size: 3.5rem;
+$hint-icon-size: 2rem;
+$hint-border-radius: $hint-size / 2;
+
 // Bootstrap overrides
 $font-family-sans-serif: 'Work Sans';
 $border-radius: 0;
