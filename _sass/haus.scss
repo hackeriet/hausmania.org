@@ -12,6 +12,13 @@ $brand-primary: $primary;
 $brand-inverse: $secondary;
 
 $font: 'Work Sans', sans-serif;
+$nav-item-bg: rgba(0, 0, 0, .2);
+$nav-item-border: 3px solid $white;
+
+// Bootstrap overrides
+$border-radius: 0;
+$border-radius-lg: 0;
+$border-radius-sm: 0;
 
 @import "haus/custom-bootstrap";
 @import "haus/general";
