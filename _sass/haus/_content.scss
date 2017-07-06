@@ -80,6 +80,26 @@
 
 #contact {
   background-color: $tertiary;
+  height: 100vh;
+
+  @include media-breakpoint-down(xs) {
+    #map {
+      height: 25rem;
+    }
+  }
+  @include media-breakpoint-only(sm) {
+    > * {
+      height: 50%;
+    }
+  }
+  @include media-breakpoint-up(md) {
+    > .container {
+      height: 35%;
+    }
+    #map {
+      height: 65%;
+    }
+  }
 }
 
 #groups {
@@ -88,12 +108,6 @@
   .group-item a {
     color: $black;
   }
-}
-
-#mapid {
-  height: 75vh;
-  background-size: cover;
-  background-position: center;
 }
 
 #scrollHint {
