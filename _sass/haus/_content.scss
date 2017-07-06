@@ -121,8 +121,8 @@
   z-index: 1337;
   position: absolute;
   top: 90vh;
-  // TODO: this is not center :(
-  left: 48vw;
+  left: 50%;
+  transform: translate(-50%, -50%);
   opacity: 1;
   animation: 5s infinite normal floating;
 
