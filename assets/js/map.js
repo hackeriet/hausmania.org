@@ -1,13 +1,13 @@
 $(function () {
   // Leaflet
-  var mymap = L.map('map').setView([59.919231, 10.752149], 18);
+  var mymap = L.map('map').setView([59.919231, 10.752149], 16);
   var logo = L.icon({
     iconUrl: 'assets/img/logo.svg',
-    iconSize: [100, 100],
-    popupAnchor:[0, -40],
+    iconSize: [48, 48],
+    popupAnchor:[0, -25],
     shadowUrl:'assets/img/shadow.svg',
-    shadowSize:[140, 140],
-    shadowAnchor:[60, 60]
+    shadowSize:[80, 80],
+    shadowAnchor:[35, 35]
   });
   var marker = L.marker([59.919219,10.752117], {icon: logo}).addTo(mymap);
 
