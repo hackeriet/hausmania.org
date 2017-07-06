@@ -82,6 +82,7 @@
 #contact {
   background-color: $tertiary;
   height: 100vh;
+  min-height: 600px;
 
   @include media-breakpoint-down(xs) {
     #map {
