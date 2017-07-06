@@ -3,5 +3,9 @@ body {
 }
 
 h2 {
-  font-size: 4rem;
+  font-size: 2rem;
+
+  @include media-breakpoint-up(md) {
+    font-size: 4rem;
+  }
 }

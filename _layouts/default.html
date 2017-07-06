@@ -9,9 +9,10 @@
       {% include header.html %}
     </div>
 
-    <section id="wrapper" class="container-fluid p-0 m-0">
+    <section class="root-wrapper container-fluid p-0 m-0">
       {{ content }}
     </section>
 
+    {% include late-scripts.html %}
   </body>
 </html>
