@@ -18,6 +18,10 @@
     background: url(/assets/img/menu.svg) center center no-repeat;
     background-size: 100% 100%;
   }
+  
+  .navbar-toggler-right {
+    top: 1.3rem;
+  }
 
   .nav-item {
     border: 3px solid $white;
