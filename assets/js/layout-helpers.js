@@ -31,4 +31,9 @@ $(function () {
 
   const cb = debounce(updateBackground, 175)
   document.onscroll = cb
+
+  // Update initial state on load
+  setTimeout(function () {
+    updateBackground()
+  }, 500)
 })
