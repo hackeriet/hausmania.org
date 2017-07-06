@@ -3,7 +3,6 @@
 
   a {
     color: $white;
-    // font-weight: bold;
   }
 
   .navbar-brand img {
@@ -13,7 +12,7 @@
   .navbar-nav {
     text-align: right;
   }
-  
+
   .navbar-toggler {
     background-color: rgba(0, 0, 0, .1);
 
@@ -48,7 +47,6 @@
       padding: .5rem;
       background-color: $nav-item-bg;
       text-align: center;
-      // border: $nav-item-border;
     }
   }
 }
