@@ -13,6 +13,7 @@ function debounce (fn, delay) {
 $(function () {
   const $boxes = $('#wrapper > section')
   const $body = $('body')
+  const initialBackground = $body.css('background-color')
 
   // Setup
   $body.css('transition', 'background-color 500ms')
@@ -23,10 +24,9 @@ $(function () {
   })
 
   function updateBackground () {
-    let initial = $body.css('background-color')
     // Assumes all blocks are 100vh tall
     let index = Math.floor(window.scrollY / window.innerHeight)
-    $body.css('background-color', index ? $boxes.eq(index).data('bgcolor') : initial)
+    $body.css('background-color', index ? $boxes.eq(index).data('bgcolor') : initialBackground)
   }
 
   const cb = debounce(updateBackground, 175)
