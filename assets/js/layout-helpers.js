@@ -15,22 +15,18 @@ $(function () {
   const $body = $('body')
 
   // Setup
-  $boxes.each(function () {
-    $(this)
-      .data('bgcolor', $(this).css('background-color'))
+  $body.css('transition', 'background-color 500ms')
+  $boxes.each(function (i) {
+    $boxes.eq(i)
+      .data('bgcolor', $boxes.eq(i).css('background-color'))
       .css('background-color', 'transparent')
   })
-  $body.css('transition', 'background-color 500ms')
 
   function updateBackground () {
-    // Replace with for loop to be able to break out on first match
-    $boxes.each(function () {
-      let $box = $(this)
-      if ($box.offset().top >= window.scrollY) {
-        $body.css('background-color', $box.data('bgcolor'))
-        return false
-      }
-    })
+    let initial = $body.css('background-color')
+    // Assumes all blocks are 100vh tall
+    let index = Math.floor(window.scrollY / window.innerHeight)
+    $body.css('background-color', index ? $boxes.eq(index).data('bgcolor') : initial)
   }
 
   const cb = debounce(updateBackground, 175)
