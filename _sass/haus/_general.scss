@@ -1,7 +1,11 @@
 body {
-  background-color: $yellow;
+    background-color: $yellow;
 }
+.main {
+    scroll-snap-type: mandatory;
 
+    scroll-snap-points-y: repeat(100vh);
+}
 h2 {
   font-size: 2rem;
 

@@ -33,7 +33,7 @@ sass:
   sass_dir: bower_components/bootstrap/scss
 gems:
 - jekyll-feed
-- jekyll-admin
+  #- jekyll-admin
 exclude:
 - - vendor
 - Gemfile
