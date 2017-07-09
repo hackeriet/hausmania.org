@@ -1,11 +1,11 @@
 function debounce (fn, delay) {
-  let timeout
+  var timeout
   return function () {
-    const self = this
+    var args = arguments
     if (timeout) clearTimeout(timeout)
     timeout = setTimeout(function () {
-      fn.apply(self, arguments)
-      delete timeout
+      fn.apply(null, args)
+      timeout = null
     }, delay || 1000)
   }
 }
