@@ -110,6 +110,18 @@
   .group-item a {
     color: $black;
   }
+
+  .group-item .header {
+    height: 10rem;
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: .5rem;
+
+    // Only show pointer for group items that has a link
+    &[onclick] {
+      cursor: pointer;
+    }
+  }
 }
 
 #scrollHint {

@@ -13,9 +13,7 @@
   {% endif %}
   {% if show %}
     <div class="col-12 col-md-4 col-xl-3 mb-4 mb-md-3 group-item">
-      {% if gruppe.link %}
-      <a href="{{ gruppe.link }}" target="_blank">{% endif %}<img class="img-fluid mb-2" src="/assets/img/grupper/{{ gruppe.img }}" alt="{{ gruppe.title }}">{% if gruppe.link %}</a>
-      {% endif %}
+      <div class="header" {% if gruppe.link %}onclick="window.location.href = '{{ gruppe.link }}'"{% endif %} style="background-image: url(/assets/img/grupper/{{ gruppe.img }});"></div>
       <h3>{% if gruppe.link %}<a href="{{ gruppe.link }}" target="_blank">{% endif %}{{ gruppe.title }}{% if gruppe.link %}</a>{% endif %}</h3>
       <p>{{ gruppe.description }}</p>
     </div>
