@@ -27,7 +27,7 @@ $(function () {
     })
   })
 
-  const $boxes = $('#wrapper > section')
+  const $boxes = $('.root-wrapper > section')
   const $body = $('body')
   const initialBackground = $body.css('background-color')
 
