@@ -54,7 +54,8 @@ $(function () {
   }, 77)
 
   // Update initial state on load
+  // Waiting to avoid flicker-ish onload
   setTimeout(function () {
     updateBackground()
-  }, 500)
+  }, 250)
 })
