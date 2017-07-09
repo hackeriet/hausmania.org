@@ -1,3 +1,5 @@
+'use strict'
+
 function debounce (fn, delay) {
   var timeout
   return function () {
@@ -27,9 +29,9 @@ $(function () {
     })
   })
 
-  const $boxes = $('.root-wrapper > section')
-  const $body = $('body')
-  const initialBackground = $body.css('background-color')
+  var $boxes = $('.root-wrapper > section')
+  var $body = $('body')
+  var initialBackground = $body.css('background-color')
 
   // Setup
   $body.css('transition', 'background-color 500ms')
@@ -41,7 +43,7 @@ $(function () {
 
   function updateBackground () {
     // Assumes all blocks are 100vh tall
-    let index = Math.floor(window.scrollY / window.innerHeight)
+    var index = Math.floor(window.scrollY / window.innerHeight)
     $body.css('background-color', index ? $boxes.eq(index).data('bgcolor') : initialBackground)
   }
 
