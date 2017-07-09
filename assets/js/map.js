@@ -1,4 +1,7 @@
 $(function () {
+  // Exit early if #map doesn't exist
+  if ($('#map').length === 0) return
+
   // Leaflet
   var mymap = L.map('map').setView([59.919231, 10.752149], 16);
   var logo = L.icon({
