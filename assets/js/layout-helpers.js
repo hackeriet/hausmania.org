@@ -18,7 +18,7 @@ function checkScrollHint () {
   $scrollHint.toggleClass('hidden', window.scrollY > 200)
 }
 
-$(function () {
+function setupFrontPage () {
   $scrollHint = $('#scrollHint')
   $scrollHint.click(() => {
     $.smoothScroll({
@@ -58,4 +58,11 @@ $(function () {
   setTimeout(function () {
     updateBackground()
   }, 250)
+}
+
+$(function () {
+  // If theres a video on top, it should be the front page
+  if ($('#top video').length) {
+    setupFrontPage()
+  }
 })
