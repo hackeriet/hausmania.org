@@ -41,6 +41,10 @@
   .author {
     font-size: .8rem;
   }
+  
+  img {
+    @include img-fluid();
+  }
 }
 
 #about {
