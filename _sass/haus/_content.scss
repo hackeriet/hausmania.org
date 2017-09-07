@@ -79,6 +79,8 @@
     p {
       color: $white;
       font-size: 1rem;
+      text-overflow: ellipsis;
+      overflow: hidden;
     }
   }
 }
