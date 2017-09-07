@@ -1,6 +1,6 @@
 ---
 title: Den årlige vårfestivalen på Hausmania
-date: 2016-06-04 00:00:00 +02:00
+date: 2016-06-04 00:00:00 +0200
 ---
 
 Hauskvartalet er under angrep. Mesteparten av kvartalet er vedtatt solgt til den kommersielle utvikleren Urbanium. Og byrådet har hastet gjennom en ordre til Politiet om å kaste ut Hausmannsplatz, den nye vognplassen på Brenneriveien 1.
@@ -24,9 +24,9 @@ https://www.facebook.com/events/1708114316096341/
 
 Torsdag 18.00: Utstillingsåpning
 
-Performance med Crotonic X 
-Presentasjon av fotografene og de ulike prosjektene 
-Samtale med Frederica Miller 
+Performance med Crotonic X
+Presentasjon av fotografene og de ulike prosjektene
+Samtale med Frederica Miller
 Konsert med Mr. Orkester
 
 https://www.facebook.com/events/1719850251590270/
@@ -60,35 +60,33 @@ Kl. 20:00 Alle Gode Ting
 Kl. 21:00 Mirramaze
 Kl. 22:00 Dromedar
 Kl. 23:00 Bernard Briis Band
-Ikke tidsatt Ingrid Bomann-Larsen, akustisk 
+Ikke tidsatt Ingrid Bomann-Larsen, akustisk
 
-Lørdag 19.00 
+Lørdag 19.00
 CrotonicX with friends sudden performance
 
 - Elise Austad : " OCD "
-"Verket handler om Tvangstanker og er en intuitiv og kompulsiv 
-utforskning av ting som oppleves nødvendig å gjøre, og hva man har lyst til å uttrykke. 
+"Verket handler om Tvangstanker og er en intuitiv og kompulsiv
+utforskning av ting som oppleves nødvendig å gjøre, og hva man har lyst til å uttrykke.
 Byrommet er i stor grad utforma utenfor vår makt, og her går vi hver dag og drømmer."
 
 - Chollada Phinitduang/Karoline Ruderaas Albrigtsen : " Flood FuzZ "
-"Hva tenker du når du hører ordet mensen? Syklusen er en naturlig del av det å være kvinne. 
+"Hva tenker du når du hører ordet mensen? Syklusen er en naturlig del av det å være kvinne.
 Gjennom performance kommenterer utøverne den ladede diskusjonen rundt mensen og det som følger med."
 
 - CrotonicX : " SCHA: DeathDoDance II "
-“Call it Human Right, Resistance, Revolt or Riot. Revolution is the spirit of breath, body and brain in total motion. And Revolution will happen when dance becomes personal, the personal becomes political, political becomes a path, and the path is a dance.” 
+“Call it Human Right, Resistance, Revolt or Riot. Revolution is the spirit of breath, body and brain in total motion. And Revolution will happen when dance becomes personal, the personal becomes political, political becomes a path, and the path is a dance.”
 
-Lørdag 23.00 
+Lørdag 23.00
 Oslo Dub Club
 
-Roastfish & Cornbread sound system er mer eller mindre født og oppvokst på huset og står bak utallige arrangementer i kvartalet under fana Oslo Dub Club og etterfesten på musikkens dag har vært tradisjon siden 2009. 
+Roastfish & Cornbread sound system er mer eller mindre født og oppvokst på huset og står bak utallige arrangementer i kvartalet under fana Oslo Dub Club og etterfesten på musikkens dag har vært tradisjon siden 2009.
 
-Etter noen få års opphold smeller det til igjen ikveld, med hjemmemekka høyttalere, niceness og alt som hører med. 
+Etter noen få års opphold smeller det til igjen ikveld, med hjemmemekka høyttalere, niceness og alt som hører med.
 
 https://www.facebook.com/events/1141825302535176/
 
 
-Dersom ikke plutselig politiet kommer for å kaste ut initiativet på Hausmannsplatz. Da risikerer vi at de legger lokk på hele kvartalet. Og det kan bli vanskelig å gjennomføre festivalen på den måten som er planlagt. 
+Dersom ikke plutselig politiet kommer for å kaste ut initiativet på Hausmannsplatz. Da risikerer vi at de legger lokk på hele kvartalet. Og det kan bli vanskelig å gjennomføre festivalen på den måten som er planlagt.
 
 Men folkens, hold av helga, festival blir det uansett. Dersom det er utkastelse på gang, er det ekstra viktig at folk kommer og viser støtte.
-
-

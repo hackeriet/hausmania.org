@@ -1,6 +1,6 @@
 ---
 title: 'Oslo Dub Club: Channel One Sound System (UK)'
-date: 2016-11-19 00:00:00 +01:00
+date: 2016-11-19 00:00:00 +0100
 ---
 
 oslo dub club & hausmania kulturhus

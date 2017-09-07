@@ -1,6 +1,6 @@
 ---
 title: Marius Immerstein presenterer "Hausmanitten"
-date: 2016-12-18 00:00:00 +01:00
+date: 2016-12-18 00:00:00 +0100
 ---
 
 Fredag 18 desember klokka 18.00 er det vernissage på Galleri Podium. Marius Immerstein viser over 30 portretter av mange av Hausmanias kulturskikkelser. Alle er velkommen! Fotografen er tilstede alle dager.
@@ -22,11 +22,9 @@ Klassisk maleri ses som forelegg.
 
 
 Åpningstider:
- 
+
  Fredag 18 desember: 18-23 Vernissage
  Lørdag 19 desember: 13-19
  Søndag 20 desember: 13-19
  Mandag 21 desember: 13-19
  Tirsdag 22 desember: 13-19
-
-
