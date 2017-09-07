@@ -41,7 +41,7 @@
   .author {
     font-size: .8rem;
   }
-  
+
   img {
     @include img-fluid();
   }
@@ -113,11 +113,15 @@
 
   .group-item a {
     color: $black;
+    border-bottom: 1px solid #000;
+    &:hover {
+      text-decoration: none;
+    }
   }
 
   .group-item .header {
     height: 10rem;
-    background-position: center center;
+    background-position: top center;
     background-size: cover;
     margin-bottom: .5rem;
 
