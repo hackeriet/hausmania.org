@@ -24,6 +24,8 @@ defaults:
     type: posts
   values:
     layout: post
+    date:
+    author:
 email: administrasjon@hausmania.org
 description: Hausmania er et selvstyrt, byøkologisk kulturhus i Oslo.
 baseurl:
