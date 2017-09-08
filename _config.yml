@@ -18,6 +18,7 @@ defaults:
   values:
     img: placeholder.jpg
     placement: bottom
+    link: https://
 - scope:
     path: ''
     type: posts
@@ -25,8 +26,8 @@ defaults:
     layout: post
 email: administrasjon@hausmania.org
 description: Hausmania er et selvstyrt, byøkologisk kulturhus i Oslo.
-baseurl: 
-url: 
+baseurl:
+url:
 markdown: kramdown
 sass:
   style: compressed
