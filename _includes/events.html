@@ -2,7 +2,7 @@
 {% assign events = "" | split:"," %}
 
 {% assign server_date = site.time | date: "%Y-%m-%d"  %}
-{% for event in site.data.facebook.data %}
+{% for event in site.data.events.data %}
   {% comment %}Remove passed events by day. Lexicographically..{% endcomment %}
   {% assign end_time = event.end_time | date: "%Y-%m-%d"  %}
   {% if end_time > server_date %}
