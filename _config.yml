@@ -27,7 +27,8 @@ defaults:
     date:
     author:
 email: administrasjon@hausmania.org
-description: Hausmania er et selvstyrt, byøkologisk kulturhus i Oslo.
+description: Kulturhuset Hausmania er et uavhengig og kunstnerdrevet kulturhus
+  i Hauskvartalet, Oslo Sentrum.
 baseurl:
 url:
 markdown: kramdown
