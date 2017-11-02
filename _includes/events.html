@@ -1,5 +1,6 @@
 {% comment %}Couldn't figure out how to get an empty array.{% endcomment %}
 {% assign events = "" | split:"," %}
+{% assign past_events = "" | split:"," %}
 
 {% assign server_date = site.time | date: "%Y-%m-%d"  %}
 {% for event in site.data.events.data %}
@@ -7,18 +8,41 @@
   {% assign end_time = event.end_time | date: "%Y-%m-%d"  %}
   {% if end_time > server_date %}
     {% assign events = events | push: event %}
+  {% else %}
+    {% assign past_events = past_events | push: event %}
   {% endif %}
 {% endfor %}
 
-{% if events.size > 0 %}
-<ul class="row">
-  {% for event in events reversed %}
+<h2>Kalender</h2>
+<div class="container mb-5">
+  <h3 class="mb-3">Kommende arrangementer</h3>
+  {% if events.size > 0 %}
+  <ul class="row">
+    {% for event in events reversed %}
     <li class="col col-sm-6 col-md-6">
       <a href="https://www.facebook.com/events/{{event.id}}" target="_blank">
         <h3>{{ event.start_time | date: "%d/%m %H:%M" }} — {{ event.end_time | date: "%H:%M" }}</h3>
         <p>{{ event.name }}</p>
       </a>
     </li>
-  {% endfor %}
-</ul>
-{% endif %}
+    {% endfor %}
+  </ul>
+  {% else %}
+    <p>Ingen å vise for øyeblikket...</p>
+  {% endif %}
+</div>
+<div class="container">
+  {% if past_events.size > 0 %}
+  <h3 class="mb-3">Tidligere arrangementer</h3>
+  <ul class="row">
+    {% for event in past_events limit:6 %}
+      <li class="col col-sm-6 col-md-6">
+        <a href="https://www.facebook.com/events/{{event.id}}" target="_blank">
+          <h3>{{ event.start_time | date: "%d/%m %H:%M" }} — {{ event.end_time | date: "%H:%M" }}</h3>
+          <p>{{ event.name }}</p>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
