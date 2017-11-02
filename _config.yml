@@ -5,9 +5,6 @@ collections:
   grupper:
     title: Grupper
     output: false
-  posts:
-    title: Posts
-    output: true
   uploads:
     title: Uploads
     output: true
@@ -19,13 +16,6 @@ defaults:
     img: placeholder.jpg
     placement: bottom
     link: https://
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    date:
-    author:
 email: administrasjon@hausmania.org
 description: Kulturhuset Hausmania er et uavhengig og kunstnerdrevet kulturhus
   i Hauskvartalet, Oslo Sentrum.
