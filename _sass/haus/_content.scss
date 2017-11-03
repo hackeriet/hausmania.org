@@ -137,7 +137,7 @@
   }
 
   .group-item .header {
-    height: 10rem;
+    height: 15rem;
     background-position: top center;
     background-size: cover;
     margin-bottom: .5rem;
@@ -145,6 +145,10 @@
     // Only show pointer for group items that has a link
     &[onclick] {
       cursor: pointer;
+    }
+
+    @include media-breakpoint-up(sm) {
+      height: 10rem;
     }
   }
 }
