@@ -106,26 +106,28 @@
 }
 
 #contact {
-  background-color: $tertiary;
-  height: 100vh;
-  min-height: 600px;
+  background-color: $white;
 
-  @include media-breakpoint-down(xs) {
-    #map {
-      height: 25rem;
-    }
+  h2 {
+    padding: 1rem 2rem;
+    background-color: $purple;
+    display: inline-block;
+    color: $white;
   }
-  @include media-breakpoint-only(sm) {
-    > * {
-      height: 50%;
-    }
+
+  ul {
+    padding-left: 1.25rem;
   }
-  @include media-breakpoint-up(md) {
-    > .container {
-      height: 35%;
+
+  #map {
+    height: 25rem;
+
+    @include media-breakpoint-only(sm) {
+
     }
-    #map {
-      height: 65%;
+    @include media-breakpoint-up(md) {
+      min-height: 69vh;
+      max-height: 42rem;
     }
   }
 }
