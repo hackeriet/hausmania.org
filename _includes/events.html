@@ -19,7 +19,7 @@
   {% if events.size > 0 %}
   <ul class="row">
     {% for event in events reversed %}
-    <li class="col col-sm-6 col-md-6">
+    <li class="col-12 col-sm-6 col-md-6">
       <a href="https://www.facebook.com/events/{{event.id}}" target="_blank">
         <h3>{{ event.start_time | date: "%d/%m %H:%M" }} — {{ event.end_time | date: "%H:%M" }}</h3>
         <p>{{ event.name }}</p>
@@ -36,7 +36,7 @@
 <div class="container">
   <ul class="row">
     {% for event in past_events limit:6 %}
-      <li class="col col-sm-6 col-md-6">
+      <li class="col-12 col-sm-6 col-md-6">
         <a href="https://www.facebook.com/events/{{event.id}}" target="_blank">
           <h3>{{ event.start_time | date: "%d/%m %H:%M" }} — {{ event.end_time | date: "%H:%M" }}</h3>
           <p>{{ event.name }}</p>
