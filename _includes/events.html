@@ -14,8 +14,8 @@
 {% endfor %}
 
 <h2>Kalender</h2>
-<div class="container mb-5">
-  <h3 class="mb-3">Kommende arrangementer</h3>
+<h3 class="mb-3">Kommende arrangementer</h3>
+<div class="container mb-4">
   {% if events.size > 0 %}
   <ul class="row">
     {% for event in events reversed %}
@@ -31,9 +31,9 @@
     <p>Ingen å vise for øyeblikket...</p>
   {% endif %}
 </div>
+{% if past_events.size > 0 %}
+<h3 class="mb-3">Tidligere arrangementer</h3>
 <div class="container">
-  {% if past_events.size > 0 %}
-  <h3 class="mb-3">Tidligere arrangementer</h3>
   <ul class="row">
     {% for event in past_events limit:6 %}
       <li class="col col-sm-6 col-md-6">
@@ -44,5 +44,5 @@
       </li>
     {% endfor %}
   </ul>
-  {% endif %}
 </div>
+{% endif %}

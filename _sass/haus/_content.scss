@@ -60,6 +60,26 @@
 #news {
   background-color: $secondary;
 
+  h2, h3 {
+    display: inline-block;
+    padding: .25rem;
+    color: white;
+  }
+
+  h2 {
+    background-color: $yellow;
+    color: black;
+    padding: .5rem 2rem;
+  }
+
+  h3 {
+    // background: $yellow;
+  }
+
+  li h3 {
+    background-color: $white;
+  }
+
   ul {
     list-style: none;
     padding: 0;
@@ -70,7 +90,7 @@
 
     h3 {
       margin: 0;
-      border-top: 1px solid $black;
+      border: 1px solid $black;
       color: $black;
       font-size: 1.25rem;
       margin-bottom: .5rem;
