@@ -3,8 +3,13 @@ $(function () {
   // Exit early if #map doesn't exist
   if ($('#map').length === 0) return
 
-  // Leaflet
-  var mymap = L.map('map').setView([59.919231, 10.752149], 16)
+  // For UX when attempting to scroll up again from the bottom of the page
+  var mapOptions = {
+    dragging: false,
+    scrollWheelZoom: false
+  }
+
+  var mymap = L.map('map', mapOptions).setView([59.919231, 10.752149], 16)
   var logo = L.icon({
     iconUrl: 'assets/img/logo.svg',
     iconSize: [48, 48],
