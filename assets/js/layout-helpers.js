@@ -4,10 +4,7 @@
 var $scrollHint
 
 $(function () {
-  // If theres a video on top, it's probably the front page
-  if ($('#top video').length) {
-    enableScrollHint()
-  }
+  enableScrollHint()
 })
 
 function enableScrollHint () {
