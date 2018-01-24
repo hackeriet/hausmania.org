@@ -166,6 +166,7 @@
 #scrollHint {
   width: $hint-size;
   height: $hint-size;
+  display: block;
   background: $nav-item-bg url(/assets/img/arrow-down.svg) center center no-repeat;
   background-size: $hint-icon-size;
   border-radius: $hint-border-radius;

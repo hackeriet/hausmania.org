@@ -9,11 +9,12 @@ $(function () {
 
 function enableScrollHint () {
   $scrollHint = $('#scrollHint')
-  $scrollHint.click(function () {
+  $scrollHint.click(function (e) {
+    e.preventDefault()
     $.smoothScroll({
-      scrollTarget: $scrollHint.attr('data-href'),
+      scrollTarget: $scrollHint.attr('href'),
       afterScroll: function () {
-        window.location.hash = $scrollHint.attr('data-href')
+        window.location.href = $scrollHint.attr('href')
       }
     })
   })
