@@ -6,3 +6,4 @@ _site
 bower_components
 _data/events.json
 _data/news.json
+_data/facebook.json
