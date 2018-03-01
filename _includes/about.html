@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h2 class="mb-3">{{ site.description }}</h2>
+        <h2 class="mb-3">{{ site.data.facebook.about | default: site.description }}</h2>
         <p class="lead">
           Hausmania ble opprettet i 2000 og har som formål å tilrettelegge rom for kunst. Det vil si å tilby rimelige arbeidsrom, atelierer, konsertlokaler, scener og utstillingsrom for kunst, samt å legge til rette for kunstnerisk samarbeid. Hausmania SA har en målsetting om å bidra til Oslos kulturliv gjennom å øke mangfoldet av kulturelle aktiviteter og utrykk og bidra til utradisjonelt samarbeid på tvers av kunstartene.
         </p>
