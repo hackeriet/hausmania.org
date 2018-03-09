@@ -16,7 +16,7 @@ defaults:
     img: placeholder.jpg
     placement: bottom
 email: dagligleder@hausmania.org
-booking_email: booking@hausmania.org
+booking_email: arrangement@hausmania.org
 # Decsription is now pulled from facebook.json instead, using this as backup
 description: Kulturhuset Hausmania er et uavhengig og kunstnerdrevet kulturhus
   i Hauskvartalet, Oslo Sentrum.
