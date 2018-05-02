@@ -29,7 +29,7 @@ sass:
 plugins:
 - jekyll-feed
 exclude:
-- - vendor
+- vendor
 - Gemfile
 - Gemfile.lock
 - default.nix
