@@ -26,7 +26,7 @@ markdown: kramdown
 sass:
   style: compressed
   sass_dir: bower_components/bootstrap/scss
-gems:
+plugins:
 - jekyll-feed
 exclude:
 - - vendor
