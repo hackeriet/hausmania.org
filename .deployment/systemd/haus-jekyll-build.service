@@ -1,0 +1,12 @@
+[Unit]
+Description=Haus web Jekyll builder
+After=network.target
+
+[Service]
+User=haus
+Environment="JEKYLL_ENV=production"
+WorkingDirectory=/srv/hausmania.org
+ExecStart=/usr/bin/bundle exec jekyll build
+
+[Install]
+WantedBy=multi-user.target

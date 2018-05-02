@@ -1,20 +1,16 @@
 # Production server tasks
-## Cron jobs
 
-This is the main cronjob for hausmania.org. It is assumed the username of the
-main user for this solution is `haus`
+The different tasks should be run in intervals either
+by cron or systemd.
 
-```
-# /etc/cron.d/hausmania-org
-#
-# hausmania.org website service jobs
-#
-SHELL=/bin/sh
-PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+The folder *.production* contains all scripts and systemd
+services and timers required to keep the site running with
+fresh content.
 
-# Get a fresh access token every two hours
-* */2 * * * haus curl -s 'https://graph.facebook.com/oauth/access_token?client_id=<APP_ID>&client_secret=<APP_SECRET>&grant_type=client_credentials' | cut -d\" -f 4 > ~/facebook-access-token.txt
+Remember to update the `APP_SECRET` environment variable,
+and the actual filepaths for the different services.
 
-# Update event feed every minute
-*/1 * * * * haus curl -sSfo ~/facebook-events.json "https://graph.facebook.com/v2.8/hausmania/events/?access_token=$(head -n 1 < ~haus/facebook-access-token.txt)" && bundle exec jekyll build
-```
+The current configuration files expectes a user `haus` to
+have the `.sh` files in `~/bin`, and the site itself to
+reside in `/srv/hausmania.org`.
+

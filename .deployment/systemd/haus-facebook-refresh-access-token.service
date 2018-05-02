@@ -1,0 +1,15 @@
+[Unit]
+Description=Hausmania Facebook API token refresh
+After=network.target
+
+[Service]
+User=haus
+Type=oneshot
+Environment="APP_ID=155596368784"
+Environment="APP_SECRET="
+ExecStart=/home/haus/bin/refresh-access-token.sh facebook-access-token.txt
+#WorkingDirectory=/srv/hausmania.org
+WorkingDirectory=/home/haus
+
+[Install]
+WantedBy=multi-user.target

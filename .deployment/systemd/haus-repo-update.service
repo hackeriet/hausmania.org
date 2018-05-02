@@ -1,0 +1,12 @@
+[Unit]
+Description=Hausmania Git repo update
+After=network.target
+
+[Service]
+User=haus
+Type=oneshot
+ExecStart=/usr/bin/git pull
+WorkingDirectory=/srv/hausmania.org
+
+[Install]
+WantedBy=multi-user.target

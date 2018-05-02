@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer update haus facebook auth token
+
+[Timer]
+OnBootSec=1s
+OnUnitActiveSec=2h
+Persistent=true
+
+[Install]
+WantedBy=timers.target

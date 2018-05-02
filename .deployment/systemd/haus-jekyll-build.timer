@@ -1,0 +1,9 @@
+[Unit]
+Description=Run Jekyll Build every minute
+
+[Timer]
+OnCalendar=minutely
+Persistent=true
+
+[Install]
+WantedBy=timers.target

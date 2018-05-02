@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer update haus info
+
+[Timer]
+OnCalendar=minutely
+Persistent=true
+
+[Install]
+WantedBy=timers.target

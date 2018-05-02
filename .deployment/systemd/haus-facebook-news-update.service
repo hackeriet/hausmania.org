@@ -1,0 +1,14 @@
+[Unit]
+Description=Hausmania Facebook news list updater
+After=network.target
+
+[Service]
+User=haus
+Type=oneshot
+Environment="ACCESS_TOKEN_FILE=/home/haus/facebook-access-token.txt"
+ExecStart=/home/haus/bin/download-facebook-news.sh /srv/hausmania.org/_data/news.json
+WorkingDirectory=/srv/hausmania.org
+#WorkingDirectory=/home/haus
+
+[Install]
+WantedBy=multi-user.target
