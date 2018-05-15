@@ -1,10 +1,13 @@
 # Setup
-## Cron
-```
-curl "https://graph.facebook.com/v2.8/hausmania/events/?access_token=SECRET" -o _data/facebook.json
-```
+## systemd
 
-Get a token here: https://developers.facebook.com/tools/explorer/145634995501895/
+The web-site is updated automatically using systemd services and timers.
+See `.deployment` dir for information. All services and timers **except**
+the Facebook event updater should be enabled.
+
+Facebook events can not currently be fetched from the Facebook API due to
+some policy changes and a move towards "Facebook Local". Maybe this changes
+in the future.
 
 ## Developing
 
@@ -19,9 +22,12 @@ To update bower dependency of bootstrap, install bower-cli and run bower install
 
 # Updating production
 
+This should happen automatically by the `haus-repo-update.service`, but can
+also manually be triggered by:
+
 ```
-ssh rediger.hausmania.org
-cd /srv/hausmania.org ; sudo -u haus git pull
-(maybe) systemctl restart haus 
+$ ssh rediger.hausmania.org
+# systemctl start haus-repo-update.service
+# systemctl start haus-jekyll-build.service
 ```
 
