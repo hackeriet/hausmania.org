@@ -1,11 +1,12 @@
 {% comment %}Couldn't figure out how to get an empty array.{% endcomment %}
+{% assign date_format = "%Y-%m-%d %I:%M:%S %p %z" %}
+{% assign server_date = site.time | date: date_format %}
+
 {% assign events = "" | split:"," %}
 {% assign past_events = "" | split:"," %}
 
-{% assign server_date = site.time | date: "%Y-%m-%d"  %}
 {% for event in site.data.events.data %}
-  {% comment %}Remove passed events by day. Lexicographically..{% endcomment %}
-  {% assign end_time = event.end_time | date: "%Y-%m-%d"  %}
+  {% assign end_time = event.end_time | date: date_format %}
   {% if end_time > server_date %}
     {% assign events = events | push: event %}
   {% else %}
