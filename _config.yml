@@ -3,7 +3,7 @@ title: Hausmania
 timezone: Europe/Amsterdam
 collections:
   grupper:
-    title: Grupper
+    title: Folk
     output: false
   uploads:
     title: Uploads
